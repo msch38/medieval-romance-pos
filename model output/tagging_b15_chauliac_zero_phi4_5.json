@@ -1,0 +1,9774 @@
+[
+  {
+    "word": "donc",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "couverture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "tissu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "fil",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vaines",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "arteres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "deffendre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "largir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "creé",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "especes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dehors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ceste",
+    "UPOS": "DET"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "appellee",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "propremant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cest",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "cy",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "notees",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "v",
+    "UPOS": "ADP"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "differences",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "escript",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "xj.ᵉ",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "v.ᵉ",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "intitule",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "appelle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "propremant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "panicle",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "toilles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "pericrane",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "crane",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "celle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "autres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pleura",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sifac",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "pericarde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cuer",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "entrailles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aprés",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "graisse",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "huille",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "eschauffant",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "humectans",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "especes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "graisse",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "dehors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cuir",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "apelle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "propremant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "graisse",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ventre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "reins",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "appelle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "propremant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "axunge",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aprés",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "iij",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "especes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "assavoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "simple",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pure",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "seulemant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "trouvee",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "chief",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "entre",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "glandelleuse",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "noilleuse",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coillons",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "mamelles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "emunctoires",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tierce",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "musculeuse",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "lacertouse",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "moult",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "telle",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "treuve",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "lieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "liquide",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ellective",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "instrument",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "liquide",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "elletif",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "X"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "manifest",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ja",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "soit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "soient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "simmples",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "toutesvoies",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "selon",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "verité",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "compos",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "leur",
+    "UPOS": "DET"
+  },
+  {
+    "word": "villis",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "emplis",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "panicle",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "veult",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "avicene",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "premier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "son",
+    "UPOS": "DET"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "canon",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "item",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "lacertes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "X"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "mais",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "appelle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "qu",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "maniere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "mus",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "d",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "rate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "suriz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "lacerte",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "fourmé",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "maniere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "d",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lizarde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ces",
+    "UPOS": "DET"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "bestes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ci",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "grailles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "chiefz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "moins",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "vers",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "queue",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "milieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "grosses",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lacertes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "doiz",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "noter",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "selon",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "entencion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "composé",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "lui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "descendent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "rons",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "viennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joinnctures",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "delaissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "eslargissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "lient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "autour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joinncture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "panicle",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "coevre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "font",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "hors",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joinncture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "rassemblent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "redeviennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "rons",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "devant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "maniere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cher",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "font",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cest",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "encores",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "dilatent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "loient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "autour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joinncture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ensuivant",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "font",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "cesse",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscle",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "faire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "jusques",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "qu",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "vient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "darnieres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "parties",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "selon",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "tousjours",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "va",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "devant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "devant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "nous",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "povons",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "declarcir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "es",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "bras",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "viennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "col",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "envoiés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "bras",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "prengnent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "fourme",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "col",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pis",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "venant",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "espaule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "met",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "fourme",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "si",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "dilate",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "conprent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "toute",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "plante",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "fiche",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "adjuctoire",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "adjuctoire",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "DET"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "dois",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "hors",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dicte",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "arondist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "revient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "fourme",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ist",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "du",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "bout",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "du",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "chief",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "espaule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sur",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "milieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "adjuctoire",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "desqueulx",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "va",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "vers",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coude",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "eslargist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "dois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "coude",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "conprent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "toute",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "petit",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "bras",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "oultre",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coude",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "dois",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "arondit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "remet",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "celle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "entre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coude",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "autres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sur",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "milieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "petit",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "bras",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "quoy",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "laquelle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "eslargist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "dois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "main",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "petite",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "comprent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "toute",
+    "UPOS": "DET"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "petite",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "main",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "puis",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "arondit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "entre",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "milieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "mein",
+    "UPOS": "PRON"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "duquel",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "issent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "mouvent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "appert",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "plaies",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "faictes",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "dois",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "pres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "joinctures",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "perilleuses",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "nerveuses",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "apparens",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "toutes",
+    "UPOS": "DET"
+  },
+  {
+    "word": "denuees",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "s",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "y",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "a",
+    "UPOS": "DET"
+  },
+  {
+    "word": "poincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "peult",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "engendrer",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "spasme",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "consequent",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "mort",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "tiers",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "tegny",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quart",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "terapeutique",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "item",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lacertes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "lé",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "different",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "v",
+    "UPOS": "ADP"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "choses",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "assavoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "quantité",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "figure",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "posicion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "composicion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "origine",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "naissance",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "haly",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "premiere",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "tiers",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sermon",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "regali",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "disposicione",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "vj.ᵉ",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "iiij",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "posicions",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "muscles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "assavoir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "droite",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "traverce",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "obliques",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "tortues",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "v.ᶜxxxj",
+    "UPOS": "X"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "muscule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "avicene",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "premier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tiers",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "composees",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aprés",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "char",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "musculeuse",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "nous",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "convient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerf",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "simple",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "fait",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "donner",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "creés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "parties",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "disoit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "quart",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "darnier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "y",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "trois",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "entencions",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "nature",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ha",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "distribué",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "grace",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "sentemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "es",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "organes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sencitives",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "grace",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "es",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "motives",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tierce",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tous",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "organes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "instrumens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cognoistre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "choses",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "tristes",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "fut",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "bien",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "qu",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "disoit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "organes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sencitifz",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "point",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "es",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "cartillages",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "es",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "os",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "pluseurs",
+    "UPOS": "DET"
+  },
+  {
+    "word": "chars",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "glandellouses",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "mais",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "y",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "semble",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "y",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "soient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "plantés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "es",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "dens",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "vj.ᵉ",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "devant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "allegué",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "item",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "manifestent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tous",
+    "UPOS": "DET"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "lui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nuque",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "vicaire",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": "s",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "acorde",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "toute",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "commune",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "escole",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "philosophes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "medicins",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "item",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "devant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "moulz",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ycelle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "appers",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "donner",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "viennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "darrier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nuque",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "descend",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "telz",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "durs",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "manifés",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "donner",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "mais",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "pourroit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "demander",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sentemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "portés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerf",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "pluseurs",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "semble",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "dise",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "premier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "intitule",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "interioribus",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quart",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "parle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "maladie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "aucune",
+    "UPOS": "DET"
+  },
+  {
+    "word": "fois",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "c",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerf",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucunes",
+    "UPOS": "DET"
+  },
+  {
+    "word": "fois",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "pluseurs",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ceste",
+    "UPOS": "DET"
+  },
+  {
+    "word": "opinion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "tient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "escole",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "montpellier",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ceste",
+    "UPOS": "DET"
+  },
+  {
+    "word": "matiere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ci",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "difficille",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "encores",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "difficile",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chose",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "investiguer",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sentemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "portés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "substanciellemant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "radialmant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "vault",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "mieulx",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "nous",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "laissons",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "poser",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quoy",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "die",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "vij",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pareilz",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "sans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "moyen",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cervel",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "xxx",
+    "UPOS": "X"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pere",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "naisse",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "parmi",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nuque",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerf",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "sans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "compaignon",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "naist",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "parmi",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "fin",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "ossaire",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "haliabas",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "seconde",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "parole",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "premiere",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "parle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "disposicion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "regal",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nature",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "toutesvoies",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "PRON"
+  },
+  {
+    "word": ";",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "desquelx",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "manieres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lient",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "autres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "lient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dehors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "toute",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "disoit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "xij",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "intitule",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "premier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "dit",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ossium",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "articulacio",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "cetera",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "c",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "articulacion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "comprinse",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "outour",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "fors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "remisses",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tenans",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tout",
+    "UPOS": "DET"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "aussi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nature",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "tout",
+    "UPOS": "DET"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "moiens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "entre",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cordes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tenans",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "moiens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "entre",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "liguemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ";",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "leur",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "leur",
+    "UPOS": "DET"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nerfz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "lequel",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sens",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "mouvemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "mouvent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "est",
+    "UPOS": "AUX"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "nonobstant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "qu",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "soient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "rons",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "issent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "muscules",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "toutesvoies",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "eslargissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "viennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "articles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "assis",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tout",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "autour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "ceulx",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "traient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ceulx",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dehors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "estendent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tire",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "lache",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "DET"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "coupe",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tel",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "membre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dehors",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "peult",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ploier",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "coupe",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dedens",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "peult",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "estendre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "xij.ᵉ",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "intitule",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "quart",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "parle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vaines",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "arteres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ja",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "soit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "vaines",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "arteres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "selon",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "entencion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "xvj.ᵉ",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "utilitate",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "particularum",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "different",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "principes",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "vaines",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "naissent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "foie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "arteres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cuer",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lieux",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "vaine",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "separee",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "artere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "bras",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "rethine",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nul",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "lieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "on",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ne",
+    "UPOS": "PART"
+  },
+  {
+    "word": "treuve",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "artere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vaine",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "communauté",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "distribucion",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "semblable",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "enmi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "le",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "souffit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cirurgien",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "a",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "parler",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "deux",
+    "UPOS": "NUM"
+  },
+  {
+    "word": "ensamble",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "fit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "galien",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "devant",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "allegué",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "donc",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "vaine",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "n",
+    "UPOS": "PART"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aultre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chose",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "mais",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ou",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sang",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "nutritif",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "artere",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "n",
+    "UPOS": "PART"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chose",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "que",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sang",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "espirituel",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "chacum",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "scet",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "quant",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "nees",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "leurs",
+    "UPOS": "DET"
+  },
+  {
+    "word": "commencemans",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "fourchent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "une",
+    "UPOS": "DET"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "va",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "hault",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "autre",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "bas",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aprés",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "chescune",
+    "UPOS": "DET"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "divise",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "parties",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "multiplient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ainsi",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "jusques",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "a",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tant",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "que",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "viennent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "aux",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "extremités",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "norrir",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "vivifier",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "tous",
+    "UPOS": "DET"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "vaines",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "particulieres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "par",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "leur",
+    "UPOS": "DET"
+  },
+  {
+    "word": "grandesse",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "font",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "emoragies",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "[",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "]",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "petite",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "douleur",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "elles",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "seront",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "dictes",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "grans",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "membres",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "veci",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "quint",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "chappitre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "cartillages",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "ongles",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "poilz",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "finaument",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "y",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "nous",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "convient",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dire",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "anathomie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "plus",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "dure",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "partie",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "tout",
+    "UPOS": "DET"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "fondemant",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "soustentacle",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "toutes",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "parties",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "avec",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "ce",
+    "UPOS": "PRON"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "fais",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "garder",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "deffendre",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "parties",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "dedans",
+    "UPOS": "ADV"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "crane",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "pis",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dos",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "donc",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "selon",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "avicene",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ha",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nostre",
+    "UPOS": "DET"
+  },
+  {
+    "word": "corps",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ij.ᶜxlvj",
+    "UPOS": "NUM"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "os",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "s",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "’",
+    "UPOS": "PART"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "bien",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "contés",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "-",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "si",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "comme",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "il",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "le",
+    "UPOS": "DET"
+  },
+  {
+    "word": "dit",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "ou",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "premier",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "livre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "son",
+    "UPOS": "DET"
+  },
+  {
+    "word": "‘",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "canon",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "excepté",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "encores",
+    "UPOS": "ADV"
+  },
+  {
+    "word": "ung",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "se",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "appelle",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "sizamina",
+    "UPOS": "PROPN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "l",
+    "UPOS": "DET"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "lande",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "ouquel",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "langue",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "est",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "fondee",
+    "UPOS": "VERB"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "du",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cors",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "ont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "divercité",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "nombre",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "fourme",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ":",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cause",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "eulx",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "mesmes",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cause",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "joinctures",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "qui",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "plains",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "medule",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "n",
+    "UPOS": "PART"
+  },
+  {
+    "word": "’",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "en",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "point",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "drois",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "tortus",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "grans",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "petis",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "tous",
+    "UPOS": "DET"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "gros",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": "os",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "sont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "et",
+    "UPOS": "CCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "ont",
+    "UPOS": "AUX"
+  },
+  {
+    "word": "divercité",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "au",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "milieu",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "la",
+    "UPOS": "DET"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "pour",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "cause",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "de",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "icelle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "joincture",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": ",",
+    "UPOS": "PUNCT"
+  },
+  {
+    "word": "car",
+    "UPOS": "SCONJ"
+  },
+  {
+    "word": "aucuns",
+    "UPOS": "DET"
+  },
+  {
+    "word": "ont",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "vacuités",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "en",
+    "UPOS": "ADP"
+  },
+  {
+    "word": "laquelle",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ilz",
+    "UPOS": "PRON"
+  },
+  {
+    "word": "ressoyvent",
+    "UPOS": "VERB"
+  },
+  {
+    "word": "les",
+    "UPOS": "DET"
+  },
+  {
+    "word": "addicions",
+    "UPOS": "NOUN"
+  },
+  {
+    "word": "des",
+    "UPOS": "DET"
+  },
+  {
+    "word": "aultres",
+    "UPOS": "ADJ"
+  },
+  {
+    "word": ".",
+    "UPOS": "PUNCT"
+  }
+]
