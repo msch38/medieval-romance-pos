@@ -1,0 +1,49 @@
+trainable params: 6,640,657 || all params: 14,152,432,674 || trainable%: 0.0469
+{'eval_loss': 0.4814225137233734, 'eval_accuracy': 0.8433105664925673, 'eval_precision': 0.736099779737659, 'eval_recall': 0.6836782432674018, 'eval_f1': 0.6920975058168803, 'eval_mean_confidence': 0.8513650894165039, 'eval_mean_uncertainty': 0.4782625138759613, 'eval_mean_confidence_gap': 0.7703325152397156, 'eval_runtime': 11.2471, 'eval_samples_per_second': 51.658, 'eval_steps_per_second': 6.491, 'epoch': 1.0}
+{'loss': 0.5919, 'grad_norm': 2.393800735473633, 'learning_rate': 0.0001657044673539519, 'epoch': 1.72}
+{'eval_loss': 0.4166862666606903, 'eval_accuracy': 0.8623084428628824, 'eval_precision': 0.7924058959514441, 'eval_recall': 0.7421069314720233, 'eval_f1': 0.7606829659060272, 'eval_mean_confidence': 0.8771733641624451, 'eval_mean_uncertainty': 0.38402414321899414, 'eval_mean_confidence_gap': 0.8048141002655029, 'eval_runtime': 11.3557, 'eval_samples_per_second': 51.164, 'eval_steps_per_second': 6.428, 'epoch': 2.0}
+{'eval_loss': 0.40069180727005005, 'eval_accuracy': 0.8728691958904896, 'eval_precision': 0.840614662685353, 'eval_recall': 0.800890486483974, 'eval_f1': 0.8149743136464283, 'eval_mean_confidence': 0.897449791431427, 'eval_mean_uncertainty': 0.3115833103656769, 'eval_mean_confidence_gap': 0.833142876625061, 'eval_runtime': 11.2234, 'eval_samples_per_second': 51.767, 'eval_steps_per_second': 6.504, 'epoch': 3.0}
+{'loss': 0.2891, 'grad_norm': 1.8433130979537964, 'learning_rate': 0.00013134020618556702, 'epoch': 3.44}
+{'eval_loss': 0.43674203753471375, 'eval_accuracy': 0.8692532858864719, 'eval_precision': 0.8046818284583465, 'eval_recall': 0.7832128253683281, 'eval_f1': 0.7909726897224983, 'eval_mean_confidence': 0.9129018783569336, 'eval_mean_uncertainty': 0.26194727420806885, 'eval_mean_confidence_gap': 0.8566602468490601, 'eval_runtime': 11.251, 'eval_samples_per_second': 51.64, 'eval_steps_per_second': 6.488, 'epoch': 4.0}
+{'eval_loss': 0.4767649471759796, 'eval_accuracy': 0.8686219365206911, 'eval_precision': 0.7858885778084472, 'eval_recall': 0.7762099702435912, 'eval_f1': 0.7796696408604519, 'eval_mean_confidence': 0.9304656982421875, 'eval_mean_uncertainty': 0.2015746384859085, 'eval_mean_confidence_gap': 0.8826188445091248, 'eval_runtime': 11.2295, 'eval_samples_per_second': 51.739, 'eval_steps_per_second': 6.501, 'epoch': 5.0}
+{'loss': 0.1748, 'grad_norm': 1.5470123291015625, 'learning_rate': 9.697594501718213e-05, 'epoch': 5.15}
+{'eval_loss': 0.5793690085411072, 'eval_accuracy': 0.8683349595362452, 'eval_precision': 0.8268617896890312, 'eval_recall': 0.7943740831521809, 'eval_f1': 0.8071700984095967, 'eval_mean_confidence': 0.9461706280708313, 'eval_mean_uncertainty': 0.14957113564014435, 'eval_mean_confidence_gap': 0.9063088893890381, 'eval_runtime': 11.1973, 'eval_samples_per_second': 51.888, 'eval_steps_per_second': 6.519, 'epoch': 6.0}
+{'loss': 0.0825, 'grad_norm': 0.614308774471283, 'learning_rate': 6.261168384879725e-05, 'epoch': 6.87}
+{'eval_loss': 0.693516731262207, 'eval_accuracy': 0.8699994260460311, 'eval_precision': 0.8272085183817337, 'eval_recall': 0.8229781470154033, 'eval_f1': 0.8233835235247349, 'eval_mean_confidence': 0.9565044641494751, 'eval_mean_uncertainty': 0.11971472948789597, 'eval_mean_confidence_gap': 0.9232943654060364, 'eval_runtime': 11.2105, 'eval_samples_per_second': 51.826, 'eval_steps_per_second': 6.512, 'epoch': 7.0}
+{'eval_loss': 0.7852237224578857, 'eval_accuracy': 0.8677036101704644, 'eval_precision': 0.836490313751194, 'eval_recall': 0.8143820395651281, 'eval_f1': 0.823844988184936, 'eval_mean_confidence': 0.9628522992134094, 'eval_mean_uncertainty': 0.0992683619260788, 'eval_mean_confidence_gap': 0.9332792162895203, 'eval_runtime': 11.2447, 'eval_samples_per_second': 51.669, 'eval_steps_per_second': 6.492, 'epoch': 8.0}
+{'loss': 0.0367, 'grad_norm': 0.5443333983421326, 'learning_rate': 2.824742268041237e-05, 'epoch': 8.59}
+{'eval_loss': 0.8374241590499878, 'eval_accuracy': 0.867933191758021, 'eval_precision': 0.834150999024032, 'eval_recall': 0.8173952552315161, 'eval_f1': 0.8248065290429532, 'eval_mean_confidence': 0.9660529494285583, 'eval_mean_uncertainty': 0.09190016239881516, 'eval_mean_confidence_gap': 0.93910151720047, 'eval_runtime': 11.2349, 'eval_samples_per_second': 51.714, 'eval_steps_per_second': 6.498, 'epoch': 9.0}
+{'eval_loss': 0.8500473499298096, 'eval_accuracy': 0.8681053779486885, 'eval_precision': 0.8343257337740643, 'eval_recall': 0.8031670719570169, 'eval_f1': 0.8153247168754642, 'eval_mean_confidence': 0.967074990272522, 'eval_mean_uncertainty': 0.08760455995798111, 'eval_mean_confidence_gap': 0.9405697584152222, 'eval_runtime': 11.2496, 'eval_samples_per_second': 51.646, 'eval_steps_per_second': 6.489, 'epoch': 10.0}
+{'train_runtime': 913.8008, 'train_samples_per_second': 25.399, 'train_steps_per_second': 3.185, 'train_loss': 0.20514931859019694, 'epoch': 10.0}
+
+Classification Report
+==================================================
+              precision    recall  f1-score   support
+
+         ADJ     0.6480    0.6480    0.6480       588
+         ADP     0.8973    0.9258    0.9113      1954
+         ADV     0.7522    0.6689    0.7082       876
+         AUX     0.5379    0.4671    0.5000       152
+       CCONJ     0.9424    0.9586    0.9504      1450
+         DET     0.8681    0.8864    0.8771      1945
+        INTJ     0.5000    0.5000    0.5000         4
+        NOUN     0.8613    0.8783    0.8697      2489
+         NUM     0.8066    0.8769    0.8403       195
+        PART     0.9640    0.9781    0.9710       137
+        PRON     0.7620    0.7724    0.7672      1459
+       PROPN     0.9307    0.8769    0.9030       674
+       PUNCT     1.0000    0.9981    0.9990      1553
+       SCONJ     0.9214    0.9113    0.9163       913
+         SYM     0.9302    0.8696    0.8989        46
+        VERB     0.8585    0.8461    0.8522      2982
+           X     1.0000    0.8333    0.9091         6
+
+    accuracy                         0.8679     17423
+   macro avg     0.8342    0.8174    0.8248     17423
+weighted avg     0.8671    0.8679    0.8672     17423
+
+
+Uncertainty Measures:
+Mean Confidence: 0.9661
+Mean Uncertainty (Entropy): 0.0919
+Mean Confidence Gap: -0.9391
