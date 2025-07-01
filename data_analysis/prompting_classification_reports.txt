@@ -1,0 +1,5064 @@
+# POS Tagging Classification Reports Analysis
+# Total reports found: 132
+# Generated automatically from MELT directory structure
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_b15
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: b15
+FILE_PATH: MELT\gemma3\few-cat\tagging_b15_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 1/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2612    0.8721    0.4021       899
+         ADP     0.9310    0.9418    0.9363      6458
+         ADV     0.4554    0.7473    0.5659      2260
+       CCONJ     0.9739    0.9327    0.9528      4875
+         DET     0.9299    0.5114    0.6599      6926
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7901    0.8528    0.8202      6758
+         NUM     0.8843    0.3452    0.4965       620
+        PART     0.0000    0.0000    0.0000       677
+        PRON     0.6100    0.7640    0.6784      3970
+       PROPN     0.9498    0.6093    0.7424      2360
+       PUNCT     0.9466    0.9914    0.9685      6386
+       SCONJ     0.9220    0.7875    0.8495      3920
+         SYM     0.2447    0.1060    0.1479       217
+        VERB     0.9198    0.8382    0.8771      8549
+           X     0.0643    0.1084    0.0807        83
+
+    accuracy                         0.7952     54967
+   macro avg     0.6177    0.5880    0.5736     54967
+weighted avg     0.8477    0.7952    0.8050     54967
+
+Accuracy: 0.7952
+Balanced Accuracy: 0.5880
+Cohen's Kappa: 0.7727
+Macro Precision: 0.6177, Recall: 0.5880, F1: 0.5736
+Micro Precision: 0.7952, Recall: 0.7952, F1: 0.7952
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_b1
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: b1
+FILE_PATH: MELT\gemma3\few-cat\tagging_b1_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 2/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2632    0.8744    0.4046       963
+         ADP     0.9318    0.9404    0.9361      6883
+         ADV     0.4509    0.7526    0.5640      2437
+       CCONJ     0.9731    0.9213    0.9465      5143
+         DET     0.9266    0.5083    0.6565      7397
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7884    0.8517    0.8188      7202
+         NUM     0.8633    0.3354    0.4831       659
+        PART     0.0008    0.0014    0.0011       709
+        PRON     0.6148    0.7692    0.6834      4333
+       PROPN     0.9506    0.6091    0.7425      2466
+       PUNCT     0.9515    0.9916    0.9712      6813
+       SCONJ     0.9259    0.7813    0.8475      4238
+         SYM     0.1825    0.1018    0.1307       226
+        VERB     0.9190    0.8375    0.8764      9091
+           X     0.0556    0.1059    0.0729        85
+
+    accuracy                         0.7937     58654
+   macro avg     0.6124    0.5864    0.5709     58654
+weighted avg     0.8471    0.7937    0.8039     58654
+
+Accuracy: 0.7937
+Balanced Accuracy: 0.5864
+Cohen's Kappa: 0.7711
+Macro Precision: 0.6124, Recall: 0.5864, F1: 0.5709
+Micro Precision: 0.7937, Recall: 0.7937, F1: 0.7937
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_k20
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: k20
+FILE_PATH: MELT\gemma3\few-cat\tagging_k20_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 3/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2640    0.8758    0.4058       966
+         ADP     0.9326    0.9402    0.9364      6886
+         ADV     0.4506    0.7474    0.5622      2435
+       CCONJ     0.9735    0.9215    0.9468      5110
+         DET     0.9264    0.5070    0.6553      7401
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7886    0.8525    0.8193      7208
+         NUM     0.8560    0.3318    0.4783       663
+        PART     0.0008    0.0014    0.0011       710
+        PRON     0.6146    0.7674    0.6826      4329
+       PROPN     0.9448    0.6101    0.7414      2467
+       PUNCT     0.9507    0.9899    0.9699      6817
+       SCONJ     0.9201    0.7857    0.8477      4238
+         SYM     0.1783    0.1027    0.1303       224
+        VERB     0.9195    0.8376    0.8766      9100
+           X     0.0446    0.0824    0.0579        85
+
+    accuracy                         0.7933     58648
+   macro avg     0.6103    0.5846    0.5695     58648
+weighted avg     0.8464    0.7933    0.8034     58648
+
+Accuracy: 0.7933
+Balanced Accuracy: 0.5846
+Cohen's Kappa: 0.7707
+Macro Precision: 0.6103, Recall: 0.5846, F1: 0.5695
+Micro Precision: 0.7933, Recall: 0.7933, F1: 0.7933
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_k50
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: k50
+FILE_PATH: MELT\gemma3\few-cat\tagging_k50_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 4/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2641    0.8747    0.4057       966
+         ADP     0.9309    0.9389    0.9349      6878
+         ADV     0.4537    0.7485    0.5650      2437
+       CCONJ     0.9747    0.9264    0.9499      5122
+         DET     0.9281    0.5072    0.6559      7402
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7897    0.8535    0.8204      7202
+         NUM     0.8534    0.3450    0.4913       658
+        PART     0.0000    0.0000    0.0000       709
+        PRON     0.6180    0.7638    0.6832      4331
+       PROPN     0.9450    0.6124    0.7432      2469
+       PUNCT     0.9504    0.9910    0.9703      6812
+       SCONJ     0.9225    0.7877    0.8498      4234
+         SYM     0.1880    0.0982    0.1290       224
+        VERB     0.9197    0.8386    0.8773      9077
+           X     0.0519    0.0941    0.0669        85
+
+    accuracy                         0.7941     58615
+   macro avg     0.6119    0.5863    0.5714     58615
+weighted avg     0.8472    0.7941    0.8044     58615
+
+Accuracy: 0.7941
+Balanced Accuracy: 0.5863
+Cohen's Kappa: 0.7716
+Macro Precision: 0.6119, Recall: 0.5863, F1: 0.5714
+Micro Precision: 0.7941, Recall: 0.7941, F1: 0.7941
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_k5
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: k5
+FILE_PATH: MELT\gemma3\few-cat\tagging_k5_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 5/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2625    0.8718    0.4035       967
+         ADP     0.9307    0.9419    0.9362      6882
+         ADV     0.4553    0.7486    0.5662      2438
+       CCONJ     0.9751    0.9258    0.9498      5121
+         DET     0.9282    0.5083    0.6569      7403
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7908    0.8539    0.8212      7208
+         NUM     0.8794    0.3435    0.4940       658
+        PART     0.0000    0.0000    0.0000       710
+        PRON     0.6164    0.7694    0.6844      4336
+       PROPN     0.9436    0.6114    0.7420      2465
+       PUNCT     0.9498    0.9903    0.9696      6821
+       SCONJ     0.9203    0.7866    0.8482      4245
+         SYM     0.2091    0.1018    0.1369       226
+        VERB     0.9227    0.8390    0.8788      9103
+           X     0.0414    0.0824    0.0551        85
+
+    accuracy                         0.7948     58677
+   macro avg     0.6141    0.5859    0.5714     58677
+weighted avg     0.8478    0.7948    0.8049     58677
+
+Accuracy: 0.7948
+Balanced Accuracy: 0.5859
+Cohen's Kappa: 0.7724
+Macro Precision: 0.6141, Recall: 0.5859, F1: 0.5714
+Micro Precision: 0.7948, Recall: 0.7948, F1: 0.7948
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_p75
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: p75
+FILE_PATH: MELT\gemma3\few-cat\tagging_p75_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 6/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2630    0.8733    0.4042       963
+         ADP     0.9324    0.9419    0.9371      6880
+         ADV     0.4568    0.7533    0.5687      2444
+       CCONJ     0.9756    0.9270    0.9507      5165
+         DET     0.9296    0.5086    0.6575      7400
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7889    0.8520    0.8192      7201
+         NUM     0.8659    0.3440    0.4924       657
+        PART     0.0008    0.0014    0.0010       710
+        PRON     0.6159    0.7674    0.6833      4329
+       PROPN     0.9451    0.6143    0.7446      2468
+       PUNCT     0.9484    0.9905    0.9690      6816
+       SCONJ     0.9205    0.7866    0.8483      4237
+         SYM     0.1981    0.0938    0.1273       224
+        VERB     0.9205    0.8367    0.8766      9100
+           X     0.0516    0.0941    0.0667        85
+
+    accuracy                         0.7947     58688
+   macro avg     0.6133    0.5865    0.5717     58688
+weighted avg     0.8475    0.7947    0.8048     58688
+
+Accuracy: 0.7947
+Balanced Accuracy: 0.5865
+Cohen's Kappa: 0.7723
+Macro Precision: 0.6133, Recall: 0.5865, F1: 0.5717
+Micro Precision: 0.7947, Recall: 0.7947, F1: 0.7947
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_p85
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: p85
+FILE_PATH: MELT\gemma3\few-cat\tagging_p85_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 7/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2617    0.8724    0.4026       964
+         ADP     0.9319    0.9413    0.9366      6879
+         ADV     0.4548    0.7490    0.5660      2434
+       CCONJ     0.9750    0.9278    0.9508      5169
+         DET     0.9255    0.5083    0.6562      7405
+        INTJ     0.0208    0.1111    0.0351         9
+        NOUN     0.7882    0.8539    0.8197      7205
+         NUM     0.8594    0.3359    0.4830       655
+        PART     0.0008    0.0014    0.0010       709
+        PRON     0.6196    0.7662    0.6852      4337
+       PROPN     0.9483    0.6105    0.7428      2465
+       PUNCT     0.9497    0.9897    0.9693      6815
+       SCONJ     0.9203    0.7848    0.8472      4238
+         SYM     0.1933    0.1018    0.1333       226
+        VERB     0.9196    0.8361    0.8759      9093
+           X     0.0671    0.1294    0.0884        85
+
+    accuracy                         0.7942     58688
+   macro avg     0.6148    0.5950    0.5746     58688
+weighted avg     0.8471    0.7942    0.8044     58688
+
+Accuracy: 0.7942
+Balanced Accuracy: 0.5950
+Cohen's Kappa: 0.7717
+Macro Precision: 0.6148, Recall: 0.5950, F1: 0.5746
+Micro Precision: 0.7942, Recall: 0.7942, F1: 0.7942
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_p95
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: p95
+FILE_PATH: MELT\gemma3\few-cat\tagging_p95_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 8/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2610    0.8736    0.4019       965
+         ADP     0.9307    0.9410    0.9358      6876
+         ADV     0.4507    0.7414    0.5606      2440
+       CCONJ     0.9742    0.9206    0.9466      5136
+         DET     0.9247    0.5079    0.6557      7395
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7910    0.8527    0.8207      7201
+         NUM     0.8593    0.3450    0.4924       655
+        PART     0.0000    0.0000    0.0000       709
+        PRON     0.6146    0.7651    0.6816      4329
+       PROPN     0.9446    0.6092    0.7407      2464
+       PUNCT     0.9508    0.9909    0.9704      6807
+       SCONJ     0.9174    0.7853    0.8463      4230
+         SYM     0.2056    0.0973    0.1321       226
+        VERB     0.9195    0.8367    0.8762      9078
+           X     0.0585    0.1176    0.0781        85
+
+    accuracy                         0.7931     58605
+   macro avg     0.6127    0.5865    0.5712     58605
+weighted avg     0.8462    0.7931    0.8034     58605
+
+Accuracy: 0.7931
+Balanced Accuracy: 0.5865
+Cohen's Kappa: 0.7705
+Macro Precision: 0.6127, Recall: 0.5865, F1: 0.5712
+Micro Precision: 0.7931, Recall: 0.7931, F1: 0.7931
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_t6
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: t6
+FILE_PATH: MELT\gemma3\few-cat\tagging_t6_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 9/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2641    0.8755    0.4058       964
+         ADP     0.9332    0.9399    0.9365      6877
+         ADV     0.4569    0.7496    0.5677      2440
+       CCONJ     0.9740    0.9276    0.9503      5169
+         DET     0.9260    0.5091    0.6570      7397
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7891    0.8539    0.8202      7201
+         NUM     0.8682    0.3379    0.4864       663
+        PART     0.0000    0.0000    0.0000       710
+        PRON     0.6150    0.7667    0.6825      4325
+       PROPN     0.9479    0.6122    0.7440      2468
+       PUNCT     0.9490    0.9903    0.9692      6815
+       SCONJ     0.9197    0.7870    0.8482      4234
+         SYM     0.2018    0.0973    0.1313       226
+        VERB     0.9207    0.8373    0.8770      9107
+           X     0.0559    0.1059    0.0732        85
+
+    accuracy                         0.7946     58690
+   macro avg     0.6138    0.5869    0.5718     58690
+weighted avg     0.8472    0.7946    0.8046     58690
+
+Accuracy: 0.7946
+Balanced Accuracy: 0.5869
+Cohen's Kappa: 0.7721
+Macro Precision: 0.6138, Recall: 0.5869, F1: 0.5718
+Micro Precision: 0.7946, Recall: 0.7946, F1: 0.7946
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_t8
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: t8
+FILE_PATH: MELT\gemma3\few-cat\tagging_t8_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 10/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2606    0.8702    0.4011       963
+         ADP     0.9319    0.9413    0.9366      6881
+         ADV     0.4532    0.7446    0.5635      2439
+       CCONJ     0.9755    0.9288    0.9516      5152
+         DET     0.9256    0.5057    0.6541      7399
+        INTJ     0.0222    0.1111    0.0370         9
+        NOUN     0.7907    0.8524    0.8204      7201
+         NUM     0.8789    0.3409    0.4913       660
+        PART     0.0000    0.0000    0.0000       709
+        PRON     0.6114    0.7651    0.6797      4329
+       PROPN     0.9397    0.6122    0.7414      2468
+       PUNCT     0.9482    0.9903    0.9688      6808
+       SCONJ     0.9191    0.7832    0.8457      4234
+         SYM     0.2286    0.1062    0.1450       226
+        VERB     0.9193    0.8365    0.8760      9101
+           X     0.0584    0.1059    0.0753        85
+
+    accuracy                         0.7935     58664
+   macro avg     0.6165    0.5934    0.5742     58664
+weighted avg     0.8464    0.7935    0.8035     58664
+
+Accuracy: 0.7935
+Balanced Accuracy: 0.5934
+Cohen's Kappa: 0.7709
+Macro Precision: 0.6165, Recall: 0.5934, F1: 0.5742
+Micro Precision: 0.7935, Recall: 0.7935, F1: 0.7935
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_cat_t9
+MODEL: gemma3
+PROMPTING: few
+DATASET: cat
+DECODING: t9
+FILE_PATH: MELT\gemma3\few-cat\tagging_t9_cat_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 11/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2662    0.8788    0.4087       965
+         ADP     0.9311    0.9388    0.9349      6878
+         ADV     0.4478    0.7388    0.5577      2435
+       CCONJ     0.9742    0.9261    0.9496      5143
+         DET     0.9256    0.5109    0.6584      7398
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7915    0.8536    0.8214      7195
+         NUM     0.8507    0.3444    0.4903       662
+        PART     0.0000    0.0000    0.0000       710
+        PRON     0.6181    0.7666    0.6844      4331
+       PROPN     0.9473    0.6130    0.7443      2465
+       PUNCT     0.9495    0.9900    0.9694      6806
+       SCONJ     0.9198    0.7890    0.8494      4232
+         SYM     0.1951    0.1071    0.1383       224
+        VERB     0.9206    0.8374    0.8770      9081
+           X     0.0530    0.0941    0.0678        85
+
+    accuracy                         0.7943     58619
+   macro avg     0.6119    0.5868    0.5720     58619
+weighted avg     0.8469    0.7943    0.8046     58619
+
+Accuracy: 0.7943
+Balanced Accuracy: 0.5868
+Cohen's Kappa: 0.7718
+Macro Precision: 0.6119, Recall: 0.5868, F1: 0.5720
+Micro Precision: 0.7943, Recall: 0.7943, F1: 0.7943
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_b15
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: b15
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_b15_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 12/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4913    0.7391    0.5903       115
+         ADP     0.9620    0.8032    0.8754       315
+         ADV     0.6343    0.8586    0.7296        99
+         AUX     0.4000    0.4878    0.4396        41
+       CCONJ     0.9588    0.9209    0.9395       177
+         DET     0.7616    0.9304    0.8376       230
+        NOUN     0.9275    0.8451    0.8844       439
+         NUM     0.6333    0.9048    0.7451        21
+        PRON     0.8432    0.7059    0.7685       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    1.0000    1.0000       382
+        VERB     0.8435    0.7978    0.8200       277
+
+    accuracy                         0.8451      2337
+   macro avg     0.7761    0.7745    0.7562      2337
+weighted avg     0.8657    0.8451    0.8492      2337
+
+Accuracy: 0.8451
+Balanced Accuracy: 0.7745
+Cohen's Kappa: 0.8242
+Macro Precision: 0.7761, Recall: 0.7745, F1: 0.7562
+Micro Precision: 0.8451, Recall: 0.8451, F1: 0.8451
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_b1
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: b1
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_b1_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 13/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5061    0.7217    0.5950       115
+         ADP     0.9617    0.8097    0.8792       310
+         ADV     0.6641    0.8700    0.7532       100
+         AUX     0.3333    0.3415    0.3373        41
+       CCONJ     0.9535    0.9213    0.9371       178
+         DET     0.7431    0.9304    0.8263       230
+        NOUN     0.9140    0.8474    0.8794       439
+         NUM     0.6552    0.9048    0.7600        21
+        PRON     0.8492    0.6878    0.7600       221
+       PROPN     0.8333    0.2500    0.3846        20
+       PUNCT     1.0000    0.9974    0.9987       381
+        VERB     0.8212    0.8123    0.8167       277
+
+    accuracy                         0.8427      2333
+   macro avg     0.7696    0.7579    0.7440      2333
+weighted avg     0.8593    0.8427    0.8450      2333
+
+Accuracy: 0.8427
+Balanced Accuracy: 0.7579
+Cohen's Kappa: 0.8213
+Macro Precision: 0.7696, Recall: 0.7579, F1: 0.7440
+Micro Precision: 0.8427, Recall: 0.8427, F1: 0.8427
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_k20
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: k20
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_k20_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 14/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4941    0.7368    0.5915       114
+         ADP     0.9614    0.8006    0.8737       311
+         ADV     0.6304    0.8529    0.7250       102
+         AUX     0.4314    0.5366    0.4783        41
+       CCONJ     0.9586    0.9153    0.9364       177
+         DET     0.7482    0.9174    0.8242       230
+        NOUN     0.9252    0.8470    0.8844       438
+         NUM     0.6552    0.9048    0.7600        21
+        PRON     0.8387    0.7027    0.7647       222
+       PROPN     0.8000    0.2000    0.3200        20
+       PUNCT     1.0000    1.0000    1.0000       379
+        VERB     0.8479    0.8051    0.8259       277
+
+    accuracy                         0.8435      2332
+   macro avg     0.7743    0.7683    0.7487      2332
+weighted avg     0.8637    0.8435    0.8470      2332
+
+Accuracy: 0.8435
+Balanced Accuracy: 0.7683
+Cohen's Kappa: 0.8224
+Macro Precision: 0.7743, Recall: 0.7683, F1: 0.7487
+Micro Precision: 0.8435, Recall: 0.8435, F1: 0.8435
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_k50
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: k50
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_k50_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 15/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4911    0.7217    0.5845       115
+         ADP     0.9612    0.7873    0.8656       315
+         ADV     0.6115    0.8586    0.7143        99
+         AUX     0.3860    0.5366    0.4490        41
+       CCONJ     0.9535    0.9318    0.9425       176
+         DET     0.7662    0.9261    0.8386       230
+        NOUN     0.9142    0.8497    0.8808       439
+         NUM     0.6786    0.9048    0.7755        21
+        PRON     0.8541    0.7149    0.7783       221
+       PROPN     0.8333    0.2500    0.3846        20
+       PUNCT     1.0000    0.9974    0.9987       381
+        VERB     0.8549    0.7870    0.8195       277
+
+    accuracy                         0.8428      2335
+   macro avg     0.7754    0.7722    0.7527      2335
+weighted avg     0.8644    0.8428    0.8471      2335
+
+Accuracy: 0.8428
+Balanced Accuracy: 0.7722
+Cohen's Kappa: 0.8217
+Macro Precision: 0.7754, Recall: 0.7722, F1: 0.7527
+Micro Precision: 0.8428, Recall: 0.8428, F1: 0.8428
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_k5
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: k5
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_k5_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 16/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5060    0.7391    0.6007       115
+         ADP     0.9580    0.7994    0.8715       314
+         ADV     0.6279    0.8438    0.7200        96
+         AUX     0.4231    0.5366    0.4731        41
+       CCONJ     0.9643    0.9310    0.9474       174
+         DET     0.7580    0.9261    0.8337       230
+        NOUN     0.9229    0.8451    0.8823       439
+         NUM     0.6333    0.9048    0.7451        21
+        PRON     0.8696    0.7240    0.7901       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    0.9974    0.9987       381
+        VERB     0.8459    0.8123    0.8287       277
+
+    accuracy                         0.8480      2329
+   macro avg     0.7805    0.7800    0.7613      2329
+weighted avg     0.8681    0.8480    0.8520      2329
+
+Accuracy: 0.8480
+Balanced Accuracy: 0.7800
+Cohen's Kappa: 0.8274
+Macro Precision: 0.7805, Recall: 0.7800, F1: 0.7613
+Micro Precision: 0.8480, Recall: 0.8480, F1: 0.8480
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_p75
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: p75
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_p75_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 17/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4857    0.7391    0.5862       115
+         ADP     0.9624    0.8153    0.8828       314
+         ADV     0.6336    0.8557    0.7281        97
+         AUX     0.3800    0.4634    0.4176        41
+       CCONJ     0.9643    0.9310    0.9474       174
+         DET     0.7617    0.9174    0.8323       230
+        NOUN     0.9254    0.8474    0.8847       439
+         NUM     0.6333    0.9048    0.7451        21
+        PRON     0.8587    0.7117    0.7783       222
+       PROPN     0.8333    0.2500    0.3846        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.8429    0.7942    0.8178       277
+
+    accuracy                         0.8456      2331
+   macro avg     0.7734    0.7692    0.7504      2331
+weighted avg     0.8663    0.8456    0.8497      2331
+
+Accuracy: 0.8456
+Balanced Accuracy: 0.7692
+Cohen's Kappa: 0.8247
+Macro Precision: 0.7734, Recall: 0.7692, F1: 0.7504
+Micro Precision: 0.8456, Recall: 0.8456, F1: 0.8456
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_p85
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: p85
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_p85_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 18/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4828    0.7368    0.5833       114
+         ADP     0.9618    0.8129    0.8811       310
+         ADV     0.6159    0.8586    0.7173        99
+         AUX     0.4151    0.5366    0.4681        41
+       CCONJ     0.9701    0.9205    0.9446       176
+         DET     0.7634    0.9261    0.8369       230
+        NOUN     0.9248    0.8425    0.8817       438
+         NUM     0.6333    0.9048    0.7451        21
+        PRON     0.8500    0.6955    0.7650       220
+       PROPN     0.8333    0.2500    0.3846        20
+       PUNCT     1.0000    1.0000    1.0000       380
+        VERB     0.8527    0.7942    0.8224       277
+
+    accuracy                         0.8444      2326
+   macro avg     0.7753    0.7732    0.7525      2326
+weighted avg     0.8666    0.8444    0.8488      2326
+
+Accuracy: 0.8444
+Balanced Accuracy: 0.7732
+Cohen's Kappa: 0.8234
+Macro Precision: 0.7753, Recall: 0.7732, F1: 0.7525
+Micro Precision: 0.8444, Recall: 0.8444, F1: 0.8444
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_p95
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: p95
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_p95_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 19/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4770    0.7281    0.5764       114
+         ADP     0.9615    0.8039    0.8757       311
+         ADV     0.6159    0.8586    0.7173        99
+         AUX     0.3519    0.4634    0.4000        41
+       CCONJ     0.9756    0.9249    0.9496       173
+         DET     0.7554    0.9130    0.8268       230
+        NOUN     0.9273    0.8447    0.8841       438
+         NUM     0.6429    0.9000    0.7500        20
+        PRON     0.8378    0.7014    0.7635       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    1.0000    1.0000       379
+        VERB     0.8405    0.7798    0.8090       277
+
+    accuracy                         0.8399      2323
+   macro avg     0.7702    0.7681    0.7497      2323
+weighted avg     0.8629    0.8399    0.8450      2323
+
+Accuracy: 0.8399
+Balanced Accuracy: 0.7681
+Cohen's Kappa: 0.8183
+Macro Precision: 0.7702, Recall: 0.7681, F1: 0.7497
+Micro Precision: 0.8399, Recall: 0.8399, F1: 0.8399
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_t6
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: t6
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_t6_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 20/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4914    0.7478    0.5931       115
+         ADP     0.9620    0.7981    0.8724       317
+         ADV     0.6364    0.8660    0.7336        97
+         AUX     0.4200    0.5122    0.4615        41
+       CCONJ     0.9588    0.9261    0.9422       176
+         DET     0.7465    0.9217    0.8249       230
+        NOUN     0.9323    0.8474    0.8878       439
+         NUM     0.6207    0.9000    0.7347        20
+        PRON     0.8508    0.6968    0.7662       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.8441    0.8014    0.8222       277
+
+    accuracy                         0.8449      2334
+   macro avg     0.7767    0.7765    0.7569      2334
+weighted avg     0.8666    0.8449    0.8491      2334
+
+Accuracy: 0.8449
+Balanced Accuracy: 0.7765
+Cohen's Kappa: 0.8240
+Macro Precision: 0.7767, Recall: 0.7765, F1: 0.7569
+Micro Precision: 0.8449, Recall: 0.8449, F1: 0.8449
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_t8
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: t8
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_t8_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 21/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4885    0.7391    0.5882       115
+         ADP     0.9621    0.7987    0.8729       318
+         ADV     0.6250    0.8586    0.7234        99
+         AUX     0.3922    0.4878    0.4348        41
+       CCONJ     0.9645    0.9261    0.9449       176
+         DET     0.7544    0.9217    0.8297       230
+        NOUN     0.9254    0.8474    0.8847       439
+         NUM     0.6552    0.9048    0.7600        21
+        PRON     0.8407    0.6923    0.7593       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    1.0000    1.0000       382
+        VERB     0.8435    0.7978    0.8200       277
+
+    accuracy                         0.8431      2339
+   macro avg     0.7757    0.7729    0.7552      2339
+weighted avg     0.8644    0.8431    0.8474      2339
+
+Accuracy: 0.8431
+Balanced Accuracy: 0.7729
+Cohen's Kappa: 0.8219
+Macro Precision: 0.7757, Recall: 0.7729, F1: 0.7552
+Micro Precision: 0.8431, Recall: 0.8431, F1: 0.8431
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_chauliac_t9
+MODEL: gemma3
+PROMPTING: few
+DATASET: chauliac
+DECODING: t9
+FILE_PATH: MELT\gemma3\few-chauliac\tagging_t9_chauliac_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 22/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4971    0.7391    0.5944       115
+         ADP     0.9617    0.7994    0.8730       314
+         ADV     0.6250    0.8738    0.7287       103
+         AUX     0.3673    0.4390    0.4000        41
+       CCONJ     0.9701    0.9205    0.9446       176
+         DET     0.7536    0.9174    0.8275       230
+        NOUN     0.9305    0.8542    0.8907       439
+         NUM     0.6129    0.9048    0.7308        21
+        PRON     0.8547    0.6923    0.7650       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    0.9974    0.9987       381
+        VERB     0.8383    0.8051    0.8214       277
+
+    accuracy                         0.8439      2338
+   macro avg     0.7724    0.7702    0.7516      2338
+weighted avg     0.8654    0.8439    0.8481      2338
+
+Accuracy: 0.8439
+Balanced Accuracy: 0.7702
+Cohen's Kappa: 0.8229
+Macro Precision: 0.7724, Recall: 0.7702, F1: 0.7516
+Micro Precision: 0.8439, Recall: 0.8439, F1: 0.8439
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_b15
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: b15
+FILE_PATH: MELT\gemma3\few-naf\tagging_b15_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 23/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4793    0.7471    0.5840      3199
+         ADP     0.9195    0.8777    0.8981      5232
+         ADV     0.3390    0.5315    0.4140      2124
+         AUX     0.5420    0.3118    0.3958      1222
+       CCONJ     0.9611    0.6554    0.7793      3314
+         DET     0.7473    0.8765    0.8067      4217
+        INTJ     0.0426    0.1538    0.0667        13
+        NOUN     0.7356    0.8135    0.7726      8851
+         NUM     0.8469    0.3320    0.4770       250
+        PART     0.0075    0.0019    0.0030       534
+        PRON     0.6649    0.4189    0.5140      4865
+       PROPN     0.8879    0.4209    0.5711      1732
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3908    0.8734    0.5400      1027
+        VERB     0.7517    0.6667    0.7066      7827
+
+    accuracy                         0.6939     45340
+   macro avg     0.6211    0.5787    0.5686     45340
+weighted avg     0.7230    0.6939    0.6922     45340
+
+Accuracy: 0.6939
+Balanced Accuracy: 0.5787
+Cohen's Kappa: 0.6536
+Macro Precision: 0.6211, Recall: 0.5787, F1: 0.5686
+Micro Precision: 0.6939, Recall: 0.6939, F1: 0.6939
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_b1
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: b1
+FILE_PATH: MELT\gemma3\few-naf\tagging_b1_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 24/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4815    0.7431    0.5843      3200
+         ADP     0.9169    0.8735    0.8947      5232
+         ADV     0.3365    0.5306    0.4118      2124
+         AUX     0.5346    0.3109    0.3932      1219
+       CCONJ     0.9595    0.6480    0.7736      3287
+         DET     0.7457    0.8764    0.8058      4216
+        INTJ     0.0408    0.1538    0.0645        13
+        NOUN     0.7337    0.8134    0.7715      8850
+         NUM     0.8200    0.3254    0.4659       252
+        PART     0.0074    0.0019    0.0030       534
+        PRON     0.6624    0.4144    0.5098      4858
+       PROPN     0.8873    0.4226    0.5725      1732
+       PUNCT     0.9989    0.9989    0.9989       930
+       SCONJ     0.3910    0.8754    0.5406      1027
+        VERB     0.7517    0.6681    0.7074      7827
+
+    accuracy                         0.6924     45301
+   macro avg     0.6179    0.5771    0.5665     45301
+weighted avg     0.7213    0.6924    0.6905     45301
+
+Accuracy: 0.6924
+Balanced Accuracy: 0.5771
+Cohen's Kappa: 0.6518
+Macro Precision: 0.6179, Recall: 0.5771, F1: 0.5665
+Micro Precision: 0.6924, Recall: 0.6924, F1: 0.6924
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_k20
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: k20
+FILE_PATH: MELT\gemma3\few-naf\tagging_k20_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 25/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4811    0.7459    0.5849      3199
+         ADP     0.9194    0.8765    0.8975      5232
+         ADV     0.3375    0.5297    0.4123      2124
+         AUX     0.5375    0.3235    0.4039      1218
+       CCONJ     0.9606    0.6514    0.7763      3293
+         DET     0.7439    0.8757    0.8044      4216
+        INTJ     0.0444    0.1667    0.0702        12
+        NOUN     0.7334    0.8155    0.7723      8849
+         NUM     0.8000    0.3307    0.4680       254
+        PART     0.0075    0.0019    0.0030       534
+        PRON     0.6617    0.4122    0.5080      4864
+       PROPN     0.8894    0.4183    0.5690      1731
+       PUNCT     1.0000    0.9989    0.9995       930
+       SCONJ     0.3937    0.8744    0.5429      1027
+        VERB     0.7522    0.6656    0.7062      7828
+
+    accuracy                         0.6929     45311
+   macro avg     0.6175    0.5791    0.5679     45311
+weighted avg     0.7217    0.6929    0.6910     45311
+
+Accuracy: 0.6929
+Balanced Accuracy: 0.5791
+Cohen's Kappa: 0.6525
+Macro Precision: 0.6175, Recall: 0.5791, F1: 0.5679
+Micro Precision: 0.6929, Recall: 0.6929, F1: 0.6929
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_k50
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: k50
+FILE_PATH: MELT\gemma3\few-naf\tagging_k50_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 26/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4801    0.7446    0.5838      3199
+         ADP     0.9198    0.8744    0.8965      5232
+         ADV     0.3313    0.5245    0.4061      2124
+         AUX     0.5265    0.3167    0.3955      1222
+       CCONJ     0.9589    0.6501    0.7748      3298
+         DET     0.7451    0.8746    0.8046      4217
+        INTJ     0.0435    0.1538    0.0678        13
+        NOUN     0.7336    0.8138    0.7716      8851
+         NUM     0.8431    0.3346    0.4791       257
+        PART     0.0079    0.0019    0.0030       534
+        PRON     0.6562    0.4140    0.5077      4865
+       PROPN     0.8852    0.4188    0.5686      1731
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3942    0.8685    0.5422      1027
+        VERB     0.7517    0.6659    0.7062      7827
+
+    accuracy                         0.6917     45330
+   macro avg     0.6185    0.5770    0.5671     45330
+weighted avg     0.7205    0.6917    0.6900     45330
+
+Accuracy: 0.6917
+Balanced Accuracy: 0.5770
+Cohen's Kappa: 0.6512
+Macro Precision: 0.6185, Recall: 0.5770, F1: 0.5671
+Micro Precision: 0.6917, Recall: 0.6917, F1: 0.6917
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_k5
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: k5
+FILE_PATH: MELT\gemma3\few-naf\tagging_k5_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 27/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4785    0.7474    0.5835      3199
+         ADP     0.9189    0.8754    0.8966      5232
+         ADV     0.3390    0.5282    0.4130      2124
+         AUX     0.5373    0.3131    0.3956      1220
+       CCONJ     0.9608    0.6493    0.7750      3288
+         DET     0.7461    0.8760    0.8058      4217
+        INTJ     0.0444    0.1667    0.0702        12
+        NOUN     0.7337    0.8137    0.7716      8851
+         NUM     0.8081    0.3175    0.4558       252
+        PART     0.0076    0.0019    0.0030       534
+        PRON     0.6610    0.4151    0.5099      4857
+       PROPN     0.8783    0.4214    0.5695      1730
+       PUNCT     1.0000    0.9989    0.9995       931
+       SCONJ     0.3912    0.8715    0.5400      1027
+        VERB     0.7492    0.6639    0.7040      7828
+
+    accuracy                         0.6922     45302
+   macro avg     0.6169    0.5773    0.5662     45302
+weighted avg     0.7207    0.6922    0.6902     45302
+
+Accuracy: 0.6922
+Balanced Accuracy: 0.5773
+Cohen's Kappa: 0.6516
+Macro Precision: 0.6169, Recall: 0.5773, F1: 0.5662
+Micro Precision: 0.6922, Recall: 0.6922, F1: 0.6922
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_p75
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: p75
+FILE_PATH: MELT\gemma3\few-naf\tagging_p75_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 28/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4790    0.7421    0.5822      3199
+         ADP     0.9190    0.8739    0.8959      5232
+         ADV     0.3369    0.5297    0.4119      2124
+         AUX     0.5477    0.3156    0.4004      1220
+       CCONJ     0.9609    0.6542    0.7784      3305
+         DET     0.7465    0.8772    0.8066      4217
+        INTJ     0.0444    0.1667    0.0702        12
+        NOUN     0.7334    0.8139    0.7716      8851
+         NUM     0.8300    0.3307    0.4729       251
+        PART     0.0078    0.0019    0.0030       534
+        PRON     0.6637    0.4174    0.5125      4861
+       PROPN     0.8912    0.4211    0.5720      1731
+       PUNCT     1.0000    0.9989    0.9995       931
+       SCONJ     0.3953    0.8783    0.5452      1027
+        VERB     0.7503    0.6673    0.7064      7827
+
+    accuracy                         0.6933     45322
+   macro avg     0.6204    0.5792    0.5686     45322
+weighted avg     0.7222    0.6933    0.6914     45322
+
+Accuracy: 0.6933
+Balanced Accuracy: 0.5792
+Cohen's Kappa: 0.6528
+Macro Precision: 0.6204, Recall: 0.5792, F1: 0.5686
+Micro Precision: 0.6933, Recall: 0.6933, F1: 0.6933
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_p85
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: p85
+FILE_PATH: MELT\gemma3\few-naf\tagging_p85_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 29/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4828    0.7493    0.5872      3199
+         ADP     0.9188    0.8733    0.8954      5232
+         ADV     0.3425    0.5367    0.4182      2124
+         AUX     0.5423    0.3249    0.4063      1222
+       CCONJ     0.9600    0.6522    0.7767      3315
+         DET     0.7456    0.8757    0.8055      4217
+        INTJ     0.0417    0.1538    0.0656        13
+        NOUN     0.7338    0.8145    0.7720      8850
+         NUM     0.8077    0.3415    0.4800       246
+        PART     0.0068    0.0019    0.0029       534
+        PRON     0.6646    0.4166    0.5122      4865
+       PROPN     0.8848    0.4212    0.5708      1733
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3936    0.8754    0.5430      1027
+        VERB     0.7509    0.6641    0.7048      7826
+
+    accuracy                         0.6934     45336
+   macro avg     0.6184    0.5800    0.5693     45336
+weighted avg     0.7223    0.6934    0.6917     45336
+
+Accuracy: 0.6934
+Balanced Accuracy: 0.5800
+Cohen's Kappa: 0.6531
+Macro Precision: 0.6184, Recall: 0.5800, F1: 0.5693
+Micro Precision: 0.6934, Recall: 0.6934, F1: 0.6934
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_p95
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: p95
+FILE_PATH: MELT\gemma3\few-naf\tagging_p95_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 30/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4802    0.7448    0.5840      3198
+         ADP     0.9194    0.8742    0.8962      5232
+         ADV     0.3348    0.5250    0.4089      2124
+         AUX     0.5262    0.3123    0.3920      1220
+       CCONJ     0.9631    0.6510    0.7769      3292
+         DET     0.7448    0.8774    0.8057      4217
+        INTJ     0.0444    0.1538    0.0690        13
+        NOUN     0.7348    0.8151    0.7729      8850
+         NUM     0.8317    0.3307    0.4732       254
+        PART     0.0076    0.0019    0.0030       534
+        PRON     0.6599    0.4142    0.5090      4857
+       PROPN     0.8824    0.4201    0.5692      1733
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3949    0.8783    0.5449      1027
+        VERB     0.7513    0.6665    0.7063      7826
+
+    accuracy                         0.6927     45310
+   macro avg     0.6184    0.5776    0.5674     45310
+weighted avg     0.7213    0.6927    0.6908     45310
+
+Accuracy: 0.6927
+Balanced Accuracy: 0.5776
+Cohen's Kappa: 0.6522
+Macro Precision: 0.6184, Recall: 0.5776, F1: 0.5674
+Micro Precision: 0.6927, Recall: 0.6927, F1: 0.6927
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_t6
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: t6
+FILE_PATH: MELT\gemma3\few-naf\tagging_t6_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 31/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4818    0.7437    0.5847      3199
+         ADP     0.9194    0.8758    0.8970      5233
+         ADV     0.3370    0.5320    0.4126      2124
+         AUX     0.5309    0.3093    0.3909      1222
+       CCONJ     0.9608    0.6521    0.7769      3308
+         DET     0.7418    0.8762    0.8034      4217
+        INTJ     0.0444    0.1538    0.0690        13
+        NOUN     0.7333    0.8137    0.7714      8850
+         NUM     0.8119    0.3293    0.4686       249
+        PART     0.0075    0.0019    0.0030       534
+        PRON     0.6627    0.4128    0.5087      4860
+       PROPN     0.8860    0.4174    0.5675      1732
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3927    0.8754    0.5422      1027
+        VERB     0.7501    0.6660    0.7056      7827
+
+    accuracy                         0.6923     45328
+   macro avg     0.6174    0.5772    0.5667     45328
+weighted avg     0.7210    0.6923    0.6903     45328
+
+Accuracy: 0.6923
+Balanced Accuracy: 0.5772
+Cohen's Kappa: 0.6518
+Macro Precision: 0.6174, Recall: 0.5772, F1: 0.5667
+Micro Precision: 0.6923, Recall: 0.6923, F1: 0.6923
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_t8
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: t8
+FILE_PATH: MELT\gemma3\few-naf\tagging_t8_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 32/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4800    0.7462    0.5842      3199
+         ADP     0.9190    0.8758    0.8968      5232
+         ADV     0.3387    0.5306    0.4135      2124
+         AUX     0.5423    0.3200    0.4025      1222
+       CCONJ     0.9612    0.6538    0.7783      3296
+         DET     0.7457    0.8755    0.8054      4217
+        INTJ     0.0217    0.0769    0.0339        13
+        NOUN     0.7329    0.8140    0.7713      8850
+         NUM     0.8283    0.3280    0.4699       250
+        PART     0.0075    0.0019    0.0030       534
+        PRON     0.6633    0.4179    0.5127      4860
+       PROPN     0.8831    0.4230    0.5720      1733
+       PUNCT     1.0000    0.9989    0.9995       933
+       SCONJ     0.3943    0.8715    0.5429      1027
+        VERB     0.7507    0.6633    0.7043      7828
+
+    accuracy                         0.6930     45318
+   macro avg     0.6179    0.5731    0.5660     45318
+weighted avg     0.7217    0.6930    0.6912     45318
+
+Accuracy: 0.6930
+Balanced Accuracy: 0.5731
+Cohen's Kappa: 0.6526
+Macro Precision: 0.6179, Recall: 0.5731, F1: 0.5660
+Micro Precision: 0.6930, Recall: 0.6930, F1: 0.6930
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_few_naf_t9
+MODEL: gemma3
+PROMPTING: few
+DATASET: naf
+DECODING: t9
+FILE_PATH: MELT\gemma3\few-naf\tagging_t9_naf_few_gemma3_5\classification_report.txt
+REPORT_NUMBER: 33/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4797    0.7446    0.5835      3199
+         ADP     0.9203    0.8762    0.8977      5233
+         ADV     0.3395    0.5339    0.4151      2124
+         AUX     0.5447    0.3197    0.4029      1220
+       CCONJ     0.9627    0.6499    0.7760      3299
+         DET     0.7421    0.8781    0.8044      4217
+        INTJ     0.0227    0.0769    0.0351        13
+        NOUN     0.7361    0.8162    0.7740      8850
+         NUM     0.8100    0.3279    0.4669       247
+        PART     0.0076    0.0019    0.0030       534
+        PRON     0.6664    0.4106    0.5082      4856
+       PROPN     0.8877    0.4246    0.5744      1731
+       PUNCT     1.0000    0.9989    0.9995       931
+       SCONJ     0.3917    0.8754    0.5412      1027
+        VERB     0.7503    0.6665    0.7060      7827
+
+    accuracy                         0.6935     45308
+   macro avg     0.6174    0.5734    0.5658     45308
+weighted avg     0.7226    0.6935    0.6915     45308
+
+Accuracy: 0.6935
+Balanced Accuracy: 0.5734
+Cohen's Kappa: 0.6531
+Macro Precision: 0.6174, Recall: 0.5734, F1: 0.5658
+Micro Precision: 0.6935, Recall: 0.6935, F1: 0.6935
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_b15
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: b15
+FILE_PATH: MELT\gemma3\zero-cat\tagging_b15_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 34/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2746    0.7200    0.3976       968
+         ADP     0.8836    0.8291    0.8555      6911
+         ADV     0.2914    0.5464    0.3801      2447
+       CCONJ     0.9547    0.7226    0.8226      5080
+         DET     0.8259    0.4930    0.6175      7397
+        INTJ     0.0088    0.1111    0.0163         9
+        NOUN     0.6819    0.7925    0.7330      7228
+         NUM     0.8032    0.2254    0.3520       670
+        PART     0.0027    0.0042    0.0033       711
+        PRON     0.5550    0.7272    0.6296      4326
+       PROPN     0.8643    0.5766    0.6917      2475
+       PUNCT     0.9335    0.9996    0.9654      6857
+       SCONJ     0.9415    0.7087    0.8087      4270
+         SYM     0.1026    0.0885    0.0950       226
+        VERB     0.8484    0.7851    0.8155      9691
+           X     0.0144    0.1071    0.0254        84
+
+    accuracy                         0.7254     59350
+   macro avg     0.5617    0.5273    0.5131     59350
+weighted avg     0.7872    0.7254    0.7404     59350
+
+Accuracy: 0.7254
+Balanced Accuracy: 0.5273
+Cohen's Kappa: 0.6950
+Macro Precision: 0.5617, Recall: 0.5273, F1: 0.5131
+Micro Precision: 0.7254, Recall: 0.7254, F1: 0.7254
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_b1
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: b1
+FILE_PATH: MELT\gemma3\zero-cat\tagging_b1_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 35/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2737    0.7146    0.3958       967
+         ADP     0.8810    0.8268    0.8530      6911
+         ADV     0.2908    0.5481    0.3800      2445
+       CCONJ     0.9525    0.7121    0.8149      4984
+         DET     0.8225    0.4946    0.6177      7382
+        INTJ     0.0090    0.1111    0.0167         9
+        NOUN     0.6796    0.7929    0.7318      7227
+         NUM     0.8022    0.2179    0.3427       670
+        PART     0.0036    0.0056    0.0044       711
+        PRON     0.5548    0.7249    0.6286      4326
+       PROPN     0.8557    0.5752    0.6879      2474
+       PUNCT     0.9365    0.9984    0.9665      6855
+       SCONJ     0.9370    0.7010    0.8020      4267
+         SYM     0.0762    0.0752    0.0757       226
+        VERB     0.8478    0.7816    0.8133      9675
+           X     0.0128    0.0952    0.0225        84
+
+    accuracy                         0.7229     59213
+   macro avg     0.5585    0.5234    0.5096     59213
+weighted avg     0.7851    0.7229    0.7381     59213
+
+Accuracy: 0.7229
+Balanced Accuracy: 0.5234
+Cohen's Kappa: 0.6922
+Macro Precision: 0.5585, Recall: 0.5234, F1: 0.5096
+Micro Precision: 0.7229, Recall: 0.7229, F1: 0.7229
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_k20
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: k20
+FILE_PATH: MELT\gemma3\zero-cat\tagging_k20_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 36/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2757    0.7159    0.3980       968
+         ADP     0.8803    0.8288    0.8538      6910
+         ADV     0.2892    0.5397    0.3766      2442
+       CCONJ     0.9540    0.7194    0.8203      4986
+         DET     0.8254    0.4985    0.6216      7376
+        INTJ     0.0091    0.1111    0.0168         9
+        NOUN     0.6800    0.7920    0.7317      7227
+         NUM     0.7978    0.2179    0.3423       670
+        PART     0.0044    0.0070    0.0054       711
+        PRON     0.5592    0.7252    0.6315      4327
+       PROPN     0.8576    0.5724    0.6866      2472
+       PUNCT     0.9362    0.9990    0.9666      6856
+       SCONJ     0.9363    0.7023    0.8026      4269
+         SYM     0.0865    0.0796    0.0829       226
+        VERB     0.8464    0.7821    0.8130      9682
+           X     0.0154    0.1176    0.0273        85
+
+    accuracy                         0.7241     59216
+   macro avg     0.5596    0.5255    0.5111     59216
+weighted avg     0.7856    0.7241    0.7392     59216
+
+Accuracy: 0.7241
+Balanced Accuracy: 0.5255
+Cohen's Kappa: 0.6934
+Macro Precision: 0.5596, Recall: 0.5255, F1: 0.5111
+Micro Precision: 0.7241, Recall: 0.7241, F1: 0.7241
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_k50
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: k50
+FILE_PATH: MELT\gemma3\zero-cat\tagging_k50_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 37/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2776    0.7155    0.4000       970
+         ADP     0.8808    0.8282    0.8537      6911
+         ADV     0.2932    0.5491    0.3823      2444
+       CCONJ     0.9555    0.7188    0.8204      4993
+         DET     0.8267    0.4962    0.6202      7382
+        INTJ     0.0090    0.1111    0.0167         9
+        NOUN     0.6794    0.7932    0.7319      7228
+         NUM     0.7895    0.2235    0.3484       671
+        PART     0.0054    0.0084    0.0066       711
+        PRON     0.5584    0.7243    0.6306      4324
+       PROPN     0.8537    0.5729    0.6857      2475
+       PUNCT     0.9343    0.9988    0.9655      6857
+       SCONJ     0.9315    0.7010    0.8000      4268
+         SYM     0.0922    0.0885    0.0903       226
+        VERB     0.8445    0.7822    0.8122      9657
+           X     0.0162    0.1176    0.0285        85
+
+    accuracy                         0.7241     59211
+   macro avg     0.5592    0.5268    0.5121     59211
+weighted avg     0.7849    0.7241    0.7389     59211
+
+Accuracy: 0.7241
+Balanced Accuracy: 0.5268
+Cohen's Kappa: 0.6935
+Macro Precision: 0.5592, Recall: 0.5268, F1: 0.5121
+Micro Precision: 0.7241, Recall: 0.7241, F1: 0.7241
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_k5
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: k5
+FILE_PATH: MELT\gemma3\zero-cat\tagging_k5_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 38/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2740    0.7193    0.3968       969
+         ADP     0.8819    0.8264    0.8532      6911
+         ADV     0.2899    0.5425    0.3779      2446
+       CCONJ     0.9562    0.7170    0.8195      4990
+         DET     0.8223    0.4931    0.6165      7386
+        INTJ     0.0094    0.1111    0.0174         9
+        NOUN     0.6789    0.7916    0.7310      7223
+         NUM     0.7869    0.2152    0.3380       669
+        PART     0.0053    0.0084    0.0065       711
+        PRON     0.5578    0.7270    0.6312      4329
+       PROPN     0.8565    0.5771    0.6896      2471
+       PUNCT     0.9355    0.9987    0.9661      6856
+       SCONJ     0.9307    0.7017    0.8001      4267
+         SYM     0.0877    0.0889    0.0883       225
+        VERB     0.8497    0.7820    0.8144      9687
+           X     0.0141    0.1059    0.0248        85
+
+    accuracy                         0.7233     59234
+   macro avg     0.5585    0.5254    0.5107     59234
+weighted avg     0.7853    0.7233    0.7385     59234
+
+Accuracy: 0.7233
+Balanced Accuracy: 0.5254
+Cohen's Kappa: 0.6926
+Macro Precision: 0.5585, Recall: 0.5254, F1: 0.5107
+Micro Precision: 0.7233, Recall: 0.7233, F1: 0.7233
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_p75
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: p75
+FILE_PATH: MELT\gemma3\zero-cat\tagging_p75_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 39/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2790    0.7165    0.4016       970
+         ADP     0.8824    0.8290    0.8548      6912
+         ADV     0.2916    0.5485    0.3807      2445
+       CCONJ     0.9546    0.7207    0.8213      5048
+         DET     0.8266    0.4982    0.6217      7389
+        INTJ     0.0087    0.1111    0.0161         9
+        NOUN     0.6782    0.7925    0.7309      7229
+         NUM     0.7887    0.2284    0.3542       670
+        PART     0.0027    0.0042    0.0033       711
+        PRON     0.5596    0.7257    0.6319      4328
+       PROPN     0.8637    0.5733    0.6892      2475
+       PUNCT     0.9345    0.9988    0.9656      6857
+       SCONJ     0.9407    0.7059    0.8065      4267
+         SYM     0.0927    0.0841    0.0882       226
+        VERB     0.8471    0.7835    0.8141      9683
+           X     0.0159    0.1176    0.0281        85
+
+    accuracy                         0.7252     59304
+   macro avg     0.5604    0.5274    0.5130     59304
+weighted avg     0.7866    0.7252    0.7403     59304
+
+Accuracy: 0.7252
+Balanced Accuracy: 0.5274
+Cohen's Kappa: 0.6947
+Macro Precision: 0.5604, Recall: 0.5274, F1: 0.5130
+Micro Precision: 0.7252, Recall: 0.7252, F1: 0.7252
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_p85
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: p85
+FILE_PATH: MELT\gemma3\zero-cat\tagging_p85_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 40/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2771    0.7196    0.4001       970
+         ADP     0.8812    0.8274    0.8534      6911
+         ADV     0.2929    0.5505    0.3823      2445
+       CCONJ     0.9553    0.7216    0.8222      5039
+         DET     0.8262    0.4963    0.6201      7386
+        INTJ     0.0085    0.1111    0.0159         9
+        NOUN     0.6805    0.7927    0.7323      7227
+         NUM     0.8085    0.2269    0.3543       670
+        PART     0.0027    0.0042    0.0033       711
+        PRON     0.5563    0.7242    0.6292      4326
+       PROPN     0.8588    0.5725    0.6870      2475
+       PUNCT     0.9344    0.9994    0.9658      6857
+       SCONJ     0.9409    0.7049    0.8060      4266
+         SYM     0.0821    0.0752    0.0785       226
+        VERB     0.8474    0.7833    0.8141      9683
+           X     0.0143    0.1059    0.0251        85
+
+    accuracy                         0.7248     59286
+   macro avg     0.5604    0.5260    0.5119     59286
+weighted avg     0.7865    0.7248    0.7399     59286
+
+Accuracy: 0.7248
+Balanced Accuracy: 0.5260
+Cohen's Kappa: 0.6942
+Macro Precision: 0.5604, Recall: 0.5260, F1: 0.5119
+Micro Precision: 0.7248, Recall: 0.7248, F1: 0.7248
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_p95
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: p95
+FILE_PATH: MELT\gemma3\zero-cat\tagging_p95_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 41/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2794    0.7255    0.4034       969
+         ADP     0.8817    0.8248    0.8523      6911
+         ADV     0.2894    0.5443    0.3779      2449
+       CCONJ     0.9560    0.7128    0.8166      5024
+         DET     0.8246    0.4963    0.6196      7387
+        INTJ     0.0087    0.1111    0.0161         9
+        NOUN     0.6787    0.7926    0.7313      7228
+         NUM     0.7790    0.2111    0.3322       668
+        PART     0.0027    0.0042    0.0033       711
+        PRON     0.5574    0.7261    0.6307      4327
+       PROPN     0.8551    0.5721    0.6855      2475
+       PUNCT     0.9347    0.9984    0.9655      6857
+       SCONJ     0.9303    0.7030    0.8009      4270
+         SYM     0.0917    0.0973    0.0944       226
+        VERB     0.8479    0.7816    0.8134      9689
+           X     0.0161    0.1176    0.0283        85
+
+    accuracy                         0.7231     59285
+   macro avg     0.5583    0.5262    0.5107     59285
+weighted avg     0.7850    0.7231    0.7382     59285
+
+Accuracy: 0.7231
+Balanced Accuracy: 0.5262
+Cohen's Kappa: 0.6923
+Macro Precision: 0.5583, Recall: 0.5262, F1: 0.5107
+Micro Precision: 0.7231, Recall: 0.7231, F1: 0.7231
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_t6
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: t6
+FILE_PATH: MELT\gemma3\zero-cat\tagging_t6_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 42/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2774    0.7237    0.4010       970
+         ADP     0.8837    0.8281    0.8550      6912
+         ADV     0.2906    0.5452    0.3791      2447
+       CCONJ     0.9553    0.7200    0.8212      5047
+         DET     0.8257    0.4965    0.6201      7386
+        INTJ     0.0090    0.1111    0.0167         9
+        NOUN     0.6808    0.7926    0.7325      7229
+         NUM     0.7968    0.2227    0.3481       669
+        PART     0.0026    0.0042    0.0033       711
+        PRON     0.5571    0.7267    0.6307      4322
+       PROPN     0.8596    0.5766    0.6902      2475
+       PUNCT     0.9348    0.9988    0.9657      6857
+       SCONJ     0.9413    0.7060    0.8068      4268
+         SYM     0.0885    0.0885    0.0885       226
+        VERB     0.8470    0.7821    0.8133      9690
+           X     0.0164    0.1176    0.0288        85
+
+    accuracy                         0.7248     59303
+   macro avg     0.5604    0.5275    0.5126     59303
+weighted avg     0.7867    0.7248    0.7400     59303
+
+Accuracy: 0.7248
+Balanced Accuracy: 0.5275
+Cohen's Kappa: 0.6943
+Macro Precision: 0.5604, Recall: 0.5275, F1: 0.5126
+Micro Precision: 0.7248, Recall: 0.7248, F1: 0.7248
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_t8
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: t8
+FILE_PATH: MELT\gemma3\zero-cat\tagging_t8_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 43/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2784    0.7206    0.4016       970
+         ADP     0.8814    0.8280    0.8539      6912
+         ADV     0.2921    0.5518    0.3820      2443
+       CCONJ     0.9564    0.7210    0.8222      5022
+         DET     0.8250    0.4932    0.6173      7387
+        INTJ     0.0087    0.1111    0.0161         9
+        NOUN     0.6794    0.7941    0.7323      7227
+         NUM     0.7853    0.2246    0.3492       668
+        PART     0.0027    0.0042    0.0033       711
+        PRON     0.5560    0.7245    0.6292      4323
+       PROPN     0.8561    0.5702    0.6845      2473
+       PUNCT     0.9338    0.9991    0.9653      6858
+       SCONJ     0.9385    0.7033    0.8041      4271
+         SYM     0.1019    0.0929    0.0972       226
+        VERB     0.8478    0.7829    0.8141      9683
+           X     0.0148    0.1059    0.0259        85
+
+    accuracy                         0.7244     59268
+   macro avg     0.5599    0.5267    0.5124     59268
+weighted avg     0.7859    0.7244    0.7393     59268
+
+Accuracy: 0.7244
+Balanced Accuracy: 0.5267
+Cohen's Kappa: 0.6938
+Macro Precision: 0.5599, Recall: 0.5267, F1: 0.5124
+Micro Precision: 0.7244, Recall: 0.7244, F1: 0.7244
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_cat_t9
+MODEL: gemma3
+PROMPTING: zero
+DATASET: cat
+DECODING: t9
+FILE_PATH: MELT\gemma3\zero-cat\tagging_t9_cat_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 44/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.2777    0.7219    0.4011       971
+         ADP     0.8812    0.8261    0.8528      6913
+         ADV     0.2931    0.5465    0.3815      2450
+       CCONJ     0.9547    0.7175    0.8193      5027
+         DET     0.8242    0.4974    0.6204      7380
+        INTJ     0.0093    0.1111    0.0171         9
+        NOUN     0.6812    0.7928    0.7327      7228
+         NUM     0.7819    0.2197    0.3431       669
+        PART     0.0052    0.0085    0.0065       710
+        PRON     0.5583    0.7272    0.6317      4326
+       PROPN     0.8594    0.5729    0.6875      2475
+       PUNCT     0.9368    0.9987    0.9668      6857
+       SCONJ     0.9326    0.7003    0.7999      4267
+         SYM     0.0882    0.0929    0.0905       226
+        VERB     0.8459    0.7829    0.8132      9676
+           X     0.0129    0.0941    0.0227        85
+
+    accuracy                         0.7241     59269
+   macro avg     0.5589    0.5257    0.5117     59269
+weighted avg     0.7856    0.7241    0.7392     59269
+
+Accuracy: 0.7241
+Balanced Accuracy: 0.5257
+Cohen's Kappa: 0.6935
+Macro Precision: 0.5589, Recall: 0.5257, F1: 0.5117
+Micro Precision: 0.7241, Recall: 0.7241, F1: 0.7241
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_b15
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: b15
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_b15_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 45/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5290    0.6348    0.5771       115
+         ADP     0.9615    0.7120    0.8182       316
+         ADV     0.5733    0.8190    0.6745       105
+         AUX     0.4400    0.2683    0.3333        41
+       CCONJ     0.9489    0.9076    0.9278       184
+         DET     0.6747    0.8995    0.7710       219
+        NOUN     0.8990    0.8519    0.8749       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8212    0.6622    0.7332       222
+       PROPN     0.6364    0.3500    0.4516        20
+       PUNCT     1.0000    1.0000    1.0000       380
+        VERB     0.7850    0.8700    0.8253       277
+
+    accuracy                         0.8236      2335
+   macro avg     0.7354    0.7381    0.7224      2335
+weighted avg     0.8402    0.8236    0.8244      2335
+
+Accuracy: 0.8236
+Balanced Accuracy: 0.7381
+Cohen's Kappa: 0.7994
+Macro Precision: 0.7354, Recall: 0.7381, F1: 0.7224
+Micro Precision: 0.8236, Recall: 0.8236, F1: 0.8236
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_b1
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: b1
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_b1_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 46/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5172    0.6522    0.5769       115
+         ADP     0.9540    0.7238    0.8231       315
+         ADV     0.5894    0.8558    0.6980       104
+         AUX     0.3548    0.2683    0.3056        41
+       CCONJ     0.9540    0.9171    0.9352       181
+         DET     0.6770    0.8995    0.7725       219
+        NOUN     0.9109    0.8383    0.8731       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8150    0.6380    0.7157       221
+       PROPN     0.5385    0.3500    0.4242        20
+       PUNCT     1.0000    1.0000    1.0000       379
+        VERB     0.7774    0.8448    0.8097       277
+
+    accuracy                         0.8204      2328
+   macro avg     0.7203    0.7392    0.7180      2328
+weighted avg     0.8382    0.8204    0.8222      2328
+
+Accuracy: 0.8204
+Balanced Accuracy: 0.7392
+Cohen's Kappa: 0.7961
+Macro Precision: 0.7203, Recall: 0.7392, F1: 0.7180
+Micro Precision: 0.8204, Recall: 0.8204, F1: 0.8204
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_k20
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k20
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_k20_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 47/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5224    0.6087    0.5622       115
+         ADP     0.9615    0.7075    0.8152       318
+         ADV     0.5556    0.8095    0.6589       105
+         AUX     0.4074    0.2683    0.3235        41
+       CCONJ     0.9382    0.9027    0.9201       185
+         DET     0.6757    0.9091    0.7752       220
+        NOUN     0.9045    0.8633    0.8834       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8239    0.6561    0.7305       221
+       PROPN     0.7000    0.3500    0.4667        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.7829    0.8592    0.8193       277
+
+    accuracy                         0.8221      2339
+   macro avg     0.7356    0.7347    0.7197      2339
+weighted avg     0.8395    0.8221    0.8231      2339
+
+Accuracy: 0.8221
+Balanced Accuracy: 0.7347
+Cohen's Kappa: 0.7978
+Macro Precision: 0.7356, Recall: 0.7347, F1: 0.7197
+Micro Precision: 0.8221, Recall: 0.8221, F1: 0.8221
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_k50
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k50
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_k50_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 48/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5259    0.6174    0.5680       115
+         ADP     0.9536    0.7220    0.8218       313
+         ADV     0.5734    0.8119    0.6721       101
+         AUX     0.4286    0.2927    0.3478        41
+       CCONJ     0.9489    0.8978    0.9227       186
+         DET     0.6746    0.9045    0.7728       220
+        NOUN     0.8955    0.8588    0.8767       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8218    0.6500    0.7259       220
+       PROPN     0.6364    0.3500    0.4516        20
+       PUNCT     1.0000    1.0000    1.0000       379
+        VERB     0.7815    0.8520    0.8152       277
+
+    accuracy                         0.8222      2328
+   macro avg     0.7330    0.7366    0.7214      2328
+weighted avg     0.8380    0.8222    0.8232      2328
+
+Accuracy: 0.8222
+Balanced Accuracy: 0.7366
+Cohen's Kappa: 0.7978
+Macro Precision: 0.7330, Recall: 0.7366, F1: 0.7214
+Micro Precision: 0.8222, Recall: 0.8222, F1: 0.8222
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_k5
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k5
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_k5_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 49/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5414    0.6261    0.5806       115
+         ADP     0.9657    0.7143    0.8212       315
+         ADV     0.5613    0.8365    0.6718       104
+         AUX     0.3077    0.1951    0.2388        41
+       CCONJ     0.9379    0.8973    0.9171       185
+         DET     0.6770    0.8955    0.7710       220
+        NOUN     0.8950    0.8542    0.8741       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8229    0.6486    0.7254       222
+       PROPN     0.5385    0.3500    0.4242        20
+       PUNCT     1.0000    1.0000    1.0000       380
+        VERB     0.7745    0.8556    0.8130       277
+
+    accuracy                         0.8193      2335
+   macro avg     0.7148    0.7296    0.7099      2335
+weighted avg     0.8352    0.8193    0.8199      2335
+
+Accuracy: 0.8193
+Balanced Accuracy: 0.7296
+Cohen's Kappa: 0.7946
+Macro Precision: 0.7148, Recall: 0.7296, F1: 0.7099
+Micro Precision: 0.8193, Recall: 0.8193, F1: 0.8193
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_p75
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p75
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_p75_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 50/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5252    0.6348    0.5748       115
+         ADP     0.9617    0.7197    0.8233       314
+         ADV     0.5629    0.8252    0.6693       103
+         AUX     0.3667    0.2683    0.3099        41
+       CCONJ     0.9489    0.9076    0.9278       184
+         DET     0.6735    0.8959    0.7689       221
+        NOUN     0.9053    0.8497    0.8766       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8136    0.6516    0.7236       221
+       PROPN     0.5385    0.3500    0.4242        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.7852    0.8448    0.8139       277
+
+    accuracy                         0.8204      2333
+   macro avg     0.7197    0.7358    0.7162      2333
+weighted avg     0.8379    0.8204    0.8222      2333
+
+Accuracy: 0.8204
+Balanced Accuracy: 0.7358
+Cohen's Kappa: 0.7959
+Macro Precision: 0.7197, Recall: 0.7358, F1: 0.7162
+Micro Precision: 0.8204, Recall: 0.8204, F1: 0.8204
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_p85
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p85
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_p85_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 51/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5248    0.6491    0.5804       114
+         ADP     0.9658    0.7107    0.8188       318
+         ADV     0.5817    0.8396    0.6873       106
+         AUX     0.3000    0.2195    0.2535        41
+       CCONJ     0.9326    0.9071    0.9197       183
+         DET     0.6712    0.8959    0.7674       221
+        NOUN     0.9019    0.8588    0.8798       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8239    0.6502    0.7268       223
+       PROPN     0.6364    0.3500    0.4516        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.7838    0.8375    0.8098       277
+
+    accuracy                         0.8201      2340
+   macro avg     0.7231    0.7334    0.7147      2340
+weighted avg     0.8375    0.8201    0.8213      2340
+
+Accuracy: 0.8201
+Balanced Accuracy: 0.7334
+Cohen's Kappa: 0.7956
+Macro Precision: 0.7231, Recall: 0.7334, F1: 0.7147
+Micro Precision: 0.8201, Recall: 0.8201, F1: 0.8201
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_p95
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p95
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_p95_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 52/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5435    0.6522    0.5929       115
+         ADP     0.9536    0.7129    0.8159       317
+         ADV     0.5503    0.8119    0.6560       101
+         AUX     0.4074    0.2683    0.3235        41
+       CCONJ     0.9379    0.9071    0.9222       183
+         DET     0.6747    0.9037    0.7725       218
+        NOUN     0.9082    0.8565    0.8816       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8136    0.6545    0.7254       220
+       PROPN     0.6364    0.3500    0.4516        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.7826    0.8448    0.8125       277
+
+    accuracy                         0.8218      2329
+   macro avg     0.7303    0.7370    0.7197      2329
+weighted avg     0.8387    0.8218    0.8230      2329
+
+Accuracy: 0.8218
+Balanced Accuracy: 0.7370
+Cohen's Kappa: 0.7974
+Macro Precision: 0.7303, Recall: 0.7370, F1: 0.7197
+Micro Precision: 0.8218, Recall: 0.8218, F1: 0.8218
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_t6
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t6
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_t6_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 53/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5299    0.6174    0.5703       115
+         ADP     0.9576    0.7152    0.8188       316
+         ADV     0.5714    0.8400    0.6802       100
+         AUX     0.3462    0.2195    0.2687        41
+       CCONJ     0.9486    0.9121    0.9300       182
+         DET     0.6678    0.8995    0.7665       219
+        NOUN     0.9058    0.8542    0.8792       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8171    0.6471    0.7222       221
+       PROPN     0.5833    0.3500    0.4375        20
+       PUNCT     1.0000    1.0000    1.0000       381
+        VERB     0.7810    0.8628    0.8199       277
+
+    accuracy                         0.8217      2328
+   macro avg     0.7220    0.7333    0.7146      2328
+weighted avg     0.8378    0.8217    0.8224      2328
+
+Accuracy: 0.8217
+Balanced Accuracy: 0.7333
+Cohen's Kappa: 0.7973
+Macro Precision: 0.7220, Recall: 0.7333, F1: 0.7146
+Micro Precision: 0.8217, Recall: 0.8217, F1: 0.8217
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_t8
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t8
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_t8_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 54/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5448    0.6348    0.5863       115
+         ADP     0.9578    0.7206    0.8225       315
+         ADV     0.5641    0.8148    0.6667       108
+         AUX     0.4583    0.2683    0.3385        41
+       CCONJ     0.9432    0.9022    0.9222       184
+         DET     0.6735    0.9041    0.7719       219
+        NOUN     0.9017    0.8565    0.8785       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8218    0.6471    0.7241       221
+       PROPN     0.6364    0.3500    0.4516        20
+       PUNCT     1.0000    1.0000    1.0000       380
+        VERB     0.7876    0.8700    0.8268       277
+
+    accuracy                         0.8241      2336
+   macro avg     0.7371    0.7376    0.7226      2336
+weighted avg     0.8403    0.8241    0.8247      2336
+
+Accuracy: 0.8241
+Balanced Accuracy: 0.7376
+Cohen's Kappa: 0.8000
+Macro Precision: 0.7371, Recall: 0.7376, F1: 0.7226
+Micro Precision: 0.8241, Recall: 0.8241, F1: 0.8241
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_chauliac_t9
+MODEL: gemma3
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t9
+FILE_PATH: MELT\gemma3\zero-chauliac\tagging_t9_chauliac_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 55/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5286    0.6435    0.5804       115
+         ADP     0.9578    0.7161    0.8195       317
+         ADV     0.5822    0.8173    0.6800       104
+         AUX     0.4400    0.2683    0.3333        41
+       CCONJ     0.9432    0.9071    0.9248       183
+         DET     0.6770    0.9078    0.7756       217
+        NOUN     0.9102    0.8542    0.8813       439
+         NUM     0.5556    0.8824    0.6818        17
+        PRON     0.8167    0.6622    0.7313       222
+       PROPN     0.5833    0.3500    0.4375        20
+       PUNCT     1.0000    1.0000    1.0000       378
+        VERB     0.7843    0.8664    0.8233       277
+
+    accuracy                         0.8249      2330
+   macro avg     0.7316    0.7396    0.7224      2330
+weighted avg     0.8411    0.8249    0.8258      2330
+
+Accuracy: 0.8249
+Balanced Accuracy: 0.7396
+Cohen's Kappa: 0.8010
+Macro Precision: 0.7316, Recall: 0.7396, F1: 0.7224
+Micro Precision: 0.8249, Recall: 0.8249, F1: 0.8249
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_b15
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: b15
+FILE_PATH: MELT\gemma3\zero-naf\tagging_b15_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 56/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5280    0.6039    0.5634      3201
+         ADP     0.8428    0.7858    0.8133      5214
+         ADV     0.2539    0.4578    0.3266      2121
+         AUX     0.5466    0.1727    0.2624      1222
+       CCONJ     0.9804    0.4685    0.6340      3304
+         DET     0.6702    0.8540    0.7510      4124
+        INTJ     0.0098    0.0909    0.0177        11
+        NOUN     0.6571    0.7730    0.7104      8847
+         NUM     0.7283    0.2669    0.3907       251
+        PART     0.0000    0.0000    0.0000       534
+        PRON     0.5552    0.3303    0.4142      4829
+       PROPN     0.6471    0.3935    0.4894      1733
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4283    0.8098    0.5602      1025
+        VERB     0.6202    0.6413    0.6306      7828
+
+    accuracy                         0.6253     45178
+   macro avg     0.5644    0.5098    0.5042     45178
+weighted avg     0.6490    0.6253    0.6181     45178
+
+Accuracy: 0.6253
+Balanced Accuracy: 0.5098
+Cohen's Kappa: 0.5738
+Macro Precision: 0.5644, Recall: 0.5098, F1: 0.5042
+Micro Precision: 0.6253, Recall: 0.6253, F1: 0.6253
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_b1
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: b1
+FILE_PATH: MELT\gemma3\zero-naf\tagging_b1_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 57/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5270    0.6001    0.5612      3201
+         ADP     0.8441    0.7847    0.8133      5215
+         ADV     0.2497    0.4521    0.3217      2119
+         AUX     0.5128    0.1800    0.2665      1222
+       CCONJ     0.9776    0.4654    0.6306      3279
+         DET     0.6687    0.8550    0.7505      4124
+        INTJ     0.0098    0.0909    0.0177        11
+        NOUN     0.6556    0.7756    0.7105      8849
+         NUM     0.7363    0.2607    0.3851       257
+        PART     0.0244    0.0056    0.0091       534
+        PRON     0.5478    0.3238    0.4070      4827
+       PROPN     0.6468    0.3898    0.4865      1729
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4253    0.8000    0.5554      1025
+        VERB     0.6218    0.6369    0.6293      7828
+
+    accuracy                         0.6235     45154
+   macro avg     0.5631    0.5080    0.5029     45154
+weighted avg     0.6469    0.6235    0.6164     45154
+
+Accuracy: 0.6235
+Balanced Accuracy: 0.5080
+Cohen's Kappa: 0.5717
+Macro Precision: 0.5631, Recall: 0.5080, F1: 0.5029
+Micro Precision: 0.6235, Recall: 0.6235, F1: 0.6235
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_k20
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: k20
+FILE_PATH: MELT\gemma3\zero-naf\tagging_k20_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 58/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5265    0.6042    0.5627      3201
+         ADP     0.8428    0.7827    0.8117      5214
+         ADV     0.2496    0.4531    0.3219      2121
+         AUX     0.5157    0.1751    0.2615      1222
+       CCONJ     0.9767    0.4621    0.6274      3272
+         DET     0.6677    0.8481    0.7471      4127
+        INTJ     0.0098    0.0909    0.0177        11
+        NOUN     0.6531    0.7728    0.7079      8846
+         NUM     0.7065    0.2539    0.3736       256
+        PART     0.0079    0.0019    0.0030       534
+        PRON     0.5473    0.3258    0.4085      4828
+       PROPN     0.6464    0.3863    0.4836      1732
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4259    0.7932    0.5542      1025
+        VERB     0.6218    0.6387    0.6301      7830
+
+    accuracy                         0.6222     45153
+   macro avg     0.5598    0.5058    0.5006     45153
+weighted avg     0.6457    0.6222    0.6152     45153
+
+Accuracy: 0.6222
+Balanced Accuracy: 0.5058
+Cohen's Kappa: 0.5702
+Macro Precision: 0.5598, Recall: 0.5058, F1: 0.5006
+Micro Precision: 0.6222, Recall: 0.6222, F1: 0.6222
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_k50
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: k50
+FILE_PATH: MELT\gemma3\zero-naf\tagging_k50_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 59/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5258    0.5961    0.5587      3201
+         ADP     0.8420    0.7855    0.8127      5216
+         ADV     0.2490    0.4516    0.3210      2119
+         AUX     0.5303    0.1718    0.2596      1222
+       CCONJ     0.9773    0.4595    0.6251      3284
+         DET     0.6714    0.8537    0.7517      4123
+        INTJ     0.0094    0.0909    0.0171        11
+        NOUN     0.6549    0.7721    0.7087      8847
+         NUM     0.7097    0.2568    0.3771       257
+        PART     0.0072    0.0019    0.0030       534
+        PRON     0.5477    0.3239    0.4071      4825
+       PROPN     0.6373    0.3886    0.4828      1732
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4222    0.7971    0.5520      1025
+        VERB     0.6207    0.6415    0.6309      7828
+
+    accuracy                         0.6224     45158
+   macro avg     0.5603    0.5060    0.5004     45158
+weighted avg     0.6462    0.6224    0.6153     45158
+
+Accuracy: 0.6224
+Balanced Accuracy: 0.5060
+Cohen's Kappa: 0.5705
+Macro Precision: 0.5603, Recall: 0.5060, F1: 0.5004
+Micro Precision: 0.6224, Recall: 0.6224, F1: 0.6224
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_k5
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: k5
+FILE_PATH: MELT\gemma3\zero-naf\tagging_k5_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 60/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5306    0.6067    0.5661      3201
+         ADP     0.8410    0.7837    0.8114      5216
+         ADV     0.2497    0.4542    0.3222      2120
+         AUX     0.5070    0.1776    0.2630      1222
+       CCONJ     0.9806    0.4633    0.6293      3272
+         DET     0.6690    0.8525    0.7497      4121
+        INTJ     0.0097    0.0909    0.0175        11
+        NOUN     0.6543    0.7731    0.7088      8847
+         NUM     0.7111    0.2490    0.3689       257
+        PART     0.0079    0.0019    0.0030       534
+        PRON     0.5487    0.3221    0.4060      4824
+       PROPN     0.6495    0.3865    0.4846      1731
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4259    0.8020    0.5563      1025
+        VERB     0.6210    0.6379    0.6294      7827
+
+    accuracy                         0.6228     45142
+   macro avg     0.5603    0.5067    0.5010     45142
+weighted avg     0.6463    0.6228    0.6156     45142
+
+Accuracy: 0.6228
+Balanced Accuracy: 0.5067
+Cohen's Kappa: 0.5710
+Macro Precision: 0.5603, Recall: 0.5067, F1: 0.5010
+Micro Precision: 0.6228, Recall: 0.6228, F1: 0.6228
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_p75
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: p75
+FILE_PATH: MELT\gemma3\zero-naf\tagging_p75_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 61/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5316    0.5995    0.5635      3201
+         ADP     0.8427    0.7847    0.8127      5216
+         ADV     0.2472    0.4538    0.3201      2120
+         AUX     0.5356    0.1784    0.2676      1222
+       CCONJ     0.9788    0.4625    0.6282      3293
+         DET     0.6680    0.8512    0.7485      4125
+        INTJ     0.0103    0.0909    0.0185        11
+        NOUN     0.6556    0.7740    0.7099      8847
+         NUM     0.6979    0.2617    0.3807       256
+        PART     0.0000    0.0000    0.0000       534
+        PRON     0.5532    0.3264    0.4105      4826
+       PROPN     0.6424    0.3871    0.4831      1731
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4316    0.8127    0.5638      1025
+        VERB     0.6224    0.6429    0.6325      7828
+
+    accuracy                         0.6240     45169
+   macro avg     0.5611    0.5083    0.5026     45169
+weighted avg     0.6478    0.6240    0.6168     45169
+
+Accuracy: 0.6240
+Balanced Accuracy: 0.5083
+Cohen's Kappa: 0.5723
+Macro Precision: 0.5611, Recall: 0.5083, F1: 0.5026
+Micro Precision: 0.6240, Recall: 0.6240, F1: 0.6240
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_p85
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: p85
+FILE_PATH: MELT\gemma3\zero-naf\tagging_p85_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 62/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5293    0.6004    0.5626      3201
+         ADP     0.8440    0.7829    0.8123      5218
+         ADV     0.2494    0.4578    0.3228      2119
+         AUX     0.5205    0.1768    0.2639      1222
+       CCONJ     0.9812    0.4619    0.6281      3278
+         DET     0.6700    0.8513    0.7498      4130
+        INTJ     0.0103    0.0909    0.0185        11
+        NOUN     0.6532    0.7723    0.7077      8849
+         NUM     0.7303    0.2610    0.3846       249
+        PART     0.0085    0.0019    0.0031       534
+        PRON     0.5456    0.3246    0.4070      4828
+       PROPN     0.6424    0.3877    0.4836      1728
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4263    0.7990    0.5560      1025
+        VERB     0.6212    0.6389    0.6299      7829
+
+    accuracy                         0.6226     45155
+   macro avg     0.5621    0.5071    0.5019     45155
+weighted avg     0.6464    0.6226    0.6156     45155
+
+Accuracy: 0.6226
+Balanced Accuracy: 0.5071
+Cohen's Kappa: 0.5707
+Macro Precision: 0.5621, Recall: 0.5071, F1: 0.5019
+Micro Precision: 0.6226, Recall: 0.6226, F1: 0.6226
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_p95
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: p95
+FILE_PATH: MELT\gemma3\zero-naf\tagging_p95_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 63/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5244    0.5976    0.5586      3201
+         ADP     0.8431    0.7816    0.8112      5216
+         ADV     0.2461    0.4493    0.3180      2121
+         AUX     0.5128    0.1800    0.2665      1222
+       CCONJ     0.9773    0.4605    0.6260      3268
+         DET     0.6716    0.8523    0.7512      4131
+        INTJ     0.0103    0.0909    0.0185        11
+        NOUN     0.6533    0.7753    0.7091      8846
+         NUM     0.7065    0.2539    0.3736       256
+        PART     0.0000    0.0000    0.0000       534
+        PRON     0.5443    0.3232    0.4056      4823
+       PROPN     0.6508    0.3876    0.4859      1731
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4293    0.8059    0.5602      1025
+        VERB     0.6250    0.6390    0.6319      7831
+
+    accuracy                         0.6225     45150
+   macro avg     0.5596    0.5064    0.5010     45150
+weighted avg     0.6461    0.6225    0.6155     45150
+
+Accuracy: 0.6225
+Balanced Accuracy: 0.5064
+Cohen's Kappa: 0.5706
+Macro Precision: 0.5596, Recall: 0.5064, F1: 0.5010
+Micro Precision: 0.6225, Recall: 0.6225, F1: 0.6225
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_t6
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: t6
+FILE_PATH: MELT\gemma3\zero-naf\tagging_t6_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 64/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5267    0.5998    0.5609      3201
+         ADP     0.8411    0.7847    0.8119      5215
+         ADV     0.2493    0.4519    0.3214      2120
+         AUX     0.5235    0.1735    0.2606      1222
+       CCONJ     0.9789    0.4666    0.6320      3283
+         DET     0.6701    0.8552    0.7514      4130
+        INTJ     0.0104    0.0909    0.0187        11
+        NOUN     0.6554    0.7742    0.7099      8849
+         NUM     0.7128    0.2607    0.3818       257
+        PART     0.0000    0.0000    0.0000       534
+        PRON     0.5500    0.3235    0.4073      4832
+       PROPN     0.6596    0.3931    0.4926      1730
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4310    0.8107    0.5628      1025
+        VERB     0.6214    0.6406    0.6308      7829
+
+    accuracy                         0.6240     45172
+   macro avg     0.5619    0.5083    0.5027     45172
+weighted avg     0.6474    0.6240    0.6167     45172
+
+Accuracy: 0.6240
+Balanced Accuracy: 0.5083
+Cohen's Kappa: 0.5723
+Macro Precision: 0.5619, Recall: 0.5083, F1: 0.5027
+Micro Precision: 0.6240, Recall: 0.6240, F1: 0.6240
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_t8
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: t8
+FILE_PATH: MELT\gemma3\zero-naf\tagging_t8_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 65/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5287    0.6007    0.5624      3201
+         ADP     0.8408    0.7823    0.8105      5218
+         ADV     0.2471    0.4528    0.3197      2120
+         AUX     0.5231    0.1759    0.2633      1222
+       CCONJ     0.9814    0.4647    0.6307      3299
+         DET     0.6679    0.8539    0.7495      4127
+        INTJ     0.0102    0.0909    0.0183        11
+        NOUN     0.6562    0.7736    0.7101      8848
+         NUM     0.7143    0.2559    0.3768       254
+        PART     0.0242    0.0056    0.0091       534
+        PRON     0.5509    0.3228    0.4070      4830
+       PROPN     0.6434    0.3888    0.4847      1731
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4238    0.7980    0.5536      1025
+        VERB     0.6214    0.6406    0.6309      7828
+
+    accuracy                         0.6230     45182
+   macro avg     0.5622    0.5070    0.5017     45182
+weighted avg     0.6472    0.6230    0.6160     45182
+
+Accuracy: 0.6230
+Balanced Accuracy: 0.5070
+Cohen's Kappa: 0.5712
+Macro Precision: 0.5622, Recall: 0.5070, F1: 0.5017
+Micro Precision: 0.6230, Recall: 0.6230, F1: 0.6230
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: gemma3_zero_naf_t9
+MODEL: gemma3
+PROMPTING: zero
+DATASET: naf
+DECODING: t9
+FILE_PATH: MELT\gemma3\zero-naf\tagging_t9_naf_zero_gemma3_5\classification_report.txt
+REPORT_NUMBER: 66/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5261    0.5979    0.5597      3201
+         ADP     0.8414    0.7833    0.8113      5215
+         ADV     0.2485    0.4521    0.3207      2119
+         AUX     0.5224    0.1818    0.2697      1221
+       CCONJ     0.9774    0.4609    0.6264      3287
+         DET     0.6705    0.8543    0.7513      4125
+        INTJ     0.0098    0.0909    0.0177        11
+        NOUN     0.6543    0.7740    0.7091      8850
+         NUM     0.6882    0.2540    0.3710       252
+        PART     0.0000    0.0000    0.0000       534
+        PRON     0.5494    0.3211    0.4053      4830
+       PROPN     0.6466    0.3913    0.4876      1730
+       PUNCT     0.9989    0.9989    0.9989       934
+       SCONJ     0.4249    0.8088    0.5571      1025
+        VERB     0.6233    0.6397    0.6314      7829
+
+    accuracy                         0.6229     45163
+   macro avg     0.5588    0.5073    0.5012     45163
+weighted avg     0.6465    0.6229    0.6157     45163
+
+Accuracy: 0.6229
+Balanced Accuracy: 0.5073
+Cohen's Kappa: 0.5711
+Macro Precision: 0.5588, Recall: 0.5073, F1: 0.5012
+Micro Precision: 0.6229, Recall: 0.6229, F1: 0.6229
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_b15
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: b15
+FILE_PATH: MELT\phi4\few-cat\tagging_b15_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 67/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4472    0.8297    0.5811       969
+         ADP     0.9086    0.9542    0.9309      6907
+         ADV     0.5797    0.5964    0.5879      2458
+       CCONJ     0.9425    0.9754    0.9586      5193
+         DET     0.9202    0.6244    0.7440      7373
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7981    0.9169    0.8534      7219
+         NUM     0.8434    0.6021    0.7026       671
+        PART     0.1641    0.2138    0.1857       711
+        PRON     0.5777    0.8463    0.6866      4332
+       PROPN     0.9116    0.6555    0.7626      2470
+       PUNCT     0.9815    0.9991    0.9902      6842
+       SCONJ     0.9780    0.6766    0.7998      4270
+         SYM     0.0000    0.0000    0.0000       225
+        VERB     0.9399    0.9311    0.9355      9495
+           X     0.1038    0.1294    0.1152        85
+
+    accuracy                         0.8369     59229
+   macro avg     0.6310    0.6219    0.6146     59229
+weighted avg     0.8583    0.8369    0.8375     59229
+
+Accuracy: 0.8369
+Balanced Accuracy: 0.6219
+Cohen's Kappa: 0.8179
+Macro Precision: 0.6310, Recall: 0.6219, F1: 0.6146
+Micro Precision: 0.8369, Recall: 0.8369, F1: 0.8369
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_b1
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: b1
+FILE_PATH: MELT\phi4\few-cat\tagging_b1_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 68/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4474    0.8304    0.5815       967
+         ADP     0.9060    0.9533    0.9291      6896
+         ADV     0.5855    0.5946    0.5900      2447
+       CCONJ     0.9392    0.9711    0.9549      5184
+         DET     0.9200    0.6238    0.7435      7342
+        INTJ     0.0000    0.0000    0.0000         8
+        NOUN     0.7925    0.9176    0.8505      7171
+         NUM     0.8384    0.5885    0.6916       661
+        PART     0.1814    0.2429    0.2077       708
+        PRON     0.5775    0.8461    0.6864      4321
+       PROPN     0.9171    0.6490    0.7601      2453
+       PUNCT     0.9762    0.9941    0.9850      6756
+       SCONJ     0.9775    0.6732    0.7973      4260
+         SYM     0.0000    0.0000    0.0000       220
+        VERB     0.9386    0.9270    0.9328      9414
+           X     0.1089    0.1358    0.1209        81
+
+    accuracy                         0.8347     58889
+   macro avg     0.6316    0.6217    0.6144     58889
+weighted avg     0.8567    0.8347    0.8354     58889
+
+Accuracy: 0.8347
+Balanced Accuracy: 0.6217
+Cohen's Kappa: 0.8155
+Macro Precision: 0.6316, Recall: 0.6217, F1: 0.6144
+Micro Precision: 0.8347, Recall: 0.8347, F1: 0.8347
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_k20
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: k20
+FILE_PATH: MELT\phi4\few-cat\tagging_k20_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 69/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4234    0.8085    0.5557       919
+         ADP     0.9047    0.9495    0.9265      6596
+         ADV     0.5951    0.5986    0.5969      2347
+       CCONJ     0.9400    0.9676    0.9536      4967
+         DET     0.9096    0.6176    0.7357      7009
+        INTJ     0.0000    0.0000    0.0000         8
+        NOUN     0.8031    0.9094    0.8530      6857
+         NUM     0.7991    0.5674    0.6636       631
+        PART     0.2239    0.3358    0.2687       670
+        PRON     0.5650    0.8386    0.6752      4102
+       PROPN     0.8548    0.6444    0.7348      2348
+       PUNCT     0.9733    0.9931    0.9831      6383
+       SCONJ     0.9662    0.6422    0.7716      4053
+         SYM     0.3077    0.0195    0.0367       205
+        VERB     0.9344    0.9194    0.9269      8899
+           X     0.0723    0.0789    0.0755        76
+
+    accuracy                         0.8285     56070
+   macro avg     0.6420    0.6182    0.6098     56070
+weighted avg     0.8524    0.8285    0.8297     56070
+
+Accuracy: 0.8285
+Balanced Accuracy: 0.6182
+Cohen's Kappa: 0.8087
+Macro Precision: 0.6420, Recall: 0.6182, F1: 0.6098
+Micro Precision: 0.8285, Recall: 0.8285, F1: 0.8285
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_k50
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: k50
+FILE_PATH: MELT\phi4\few-cat\tagging_k50_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 70/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4264    0.8054    0.5576       925
+         ADP     0.9015    0.9473    0.9238      6541
+         ADV     0.5854    0.5831    0.5842      2317
+       CCONJ     0.9380    0.9685    0.9530      4948
+         DET     0.9093    0.6209    0.7379      6963
+        INTJ     0.0000    0.0000    0.0000         8
+        NOUN     0.8018    0.9071    0.8512      6827
+         NUM     0.8141    0.5626    0.6654       615
+        PART     0.2346    0.3616    0.2845       672
+        PRON     0.5646    0.8336    0.6732      4093
+       PROPN     0.8583    0.6527    0.7415      2292
+       PUNCT     0.9721    0.9934    0.9826      6378
+       SCONJ     0.9713    0.6376    0.7698      4034
+         SYM     0.2000    0.0098    0.0187       204
+        VERB     0.9365    0.9206    0.9284      8838
+           X     0.0941    0.1039    0.0988        77
+
+    accuracy                         0.8281     55732
+   macro avg     0.6380    0.6192    0.6107     55732
+weighted avg     0.8518    0.8281    0.8294     55732
+
+Accuracy: 0.8281
+Balanced Accuracy: 0.6192
+Cohen's Kappa: 0.8082
+Macro Precision: 0.6380, Recall: 0.6192, F1: 0.6107
+Micro Precision: 0.8281, Recall: 0.8281, F1: 0.8281
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_k5
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: k5
+FILE_PATH: MELT\phi4\few-cat\tagging_k5_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 71/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4297    0.8186    0.5635       959
+         ADP     0.9040    0.9499    0.9264      6843
+         ADV     0.5916    0.5847    0.5881      2425
+       CCONJ     0.9402    0.9711    0.9554      5150
+         DET     0.9079    0.6192    0.7362      7292
+        INTJ     0.0000    0.0000    0.0000         8
+        NOUN     0.8015    0.9055    0.8503      7133
+         NUM     0.8030    0.5760    0.6708       658
+        PART     0.2332    0.3371    0.2757       700
+        PRON     0.5609    0.8413    0.6731      4273
+       PROPN     0.8520    0.6523    0.7389      2436
+       PUNCT     0.9720    0.9930    0.9824      6675
+       SCONJ     0.9690    0.6368    0.7686      4224
+         SYM     0.1538    0.0091    0.0172       220
+        VERB     0.9395    0.9224    0.9309      9292
+           X     0.1031    0.1176    0.1099        85
+
+    accuracy                         0.8288     58373
+   macro avg     0.6351    0.6209    0.6117     58373
+weighted avg     0.8519    0.8288    0.8298     58373
+
+Accuracy: 0.8288
+Balanced Accuracy: 0.6209
+Cohen's Kappa: 0.8090
+Macro Precision: 0.6351, Recall: 0.6209, F1: 0.6117
+Micro Precision: 0.8288, Recall: 0.8288, F1: 0.8288
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_p75
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: p75
+FILE_PATH: MELT\phi4\few-cat\tagging_p75_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 72/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4433    0.8215    0.5759       947
+         ADP     0.9078    0.9532    0.9299      6836
+         ADV     0.5940    0.6051    0.5995      2403
+       CCONJ     0.9404    0.9707    0.9553      5121
+         DET     0.9157    0.6234    0.7418      7263
+        INTJ     0.0000    0.0000    0.0000         8
+        NOUN     0.8017    0.9157    0.8549      7083
+         NUM     0.8352    0.5828    0.6865       652
+        PART     0.2036    0.2779    0.2350       698
+        PRON     0.5733    0.8412    0.6819      4243
+       PROPN     0.8735    0.6581    0.7506      2413
+       PUNCT     0.9733    0.9929    0.9830      6601
+       SCONJ     0.9730    0.6680    0.7922      4214
+         SYM     0.1111    0.0046    0.0088       219
+        VERB     0.9400    0.9287    0.9343      9297
+           X     0.1136    0.1176    0.1156        85
+
+    accuracy                         0.8346     58083
+   macro avg     0.6375    0.6226    0.6153     58083
+weighted avg     0.8561    0.8346    0.8353     58083
+
+Accuracy: 0.8346
+Balanced Accuracy: 0.6226
+Cohen's Kappa: 0.8154
+Macro Precision: 0.6375, Recall: 0.6226, F1: 0.6153
+Micro Precision: 0.8346, Recall: 0.8346, F1: 0.8346
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_p85
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: p85
+FILE_PATH: MELT\phi4\few-cat\tagging_p85_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 73/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4288    0.8124    0.5613       938
+         ADP     0.9035    0.9538    0.9280      6772
+         ADV     0.5982    0.5962    0.5972      2370
+       CCONJ     0.9411    0.9734    0.9570      5070
+         DET     0.9178    0.6229    0.7421      7175
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.8033    0.9113    0.8539      7022
+         NUM     0.8228    0.5829    0.6824       645
+        PART     0.2322    0.3251    0.2709       692
+        PRON     0.5717    0.8450    0.6819      4225
+       PROPN     0.8628    0.6597    0.7477      2392
+       PUNCT     0.9768    0.9940    0.9853      6528
+       SCONJ     0.9760    0.6577    0.7859      4146
+         SYM     0.1818    0.0092    0.0175       218
+        VERB     0.9385    0.9239    0.9311      9185
+           X     0.0968    0.1059    0.1011        85
+
+    accuracy                         0.8334     57472
+   macro avg     0.6408    0.6233    0.6152     57472
+weighted avg     0.8560    0.8334    0.8343     57472
+
+Accuracy: 0.8334
+Balanced Accuracy: 0.6233
+Cohen's Kappa: 0.8141
+Macro Precision: 0.6408, Recall: 0.6233, F1: 0.6152
+Micro Precision: 0.8334, Recall: 0.8334, F1: 0.8334
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_p95
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: p95
+FILE_PATH: MELT\phi4\few-cat\tagging_p95_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 74/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4308    0.8278    0.5667       929
+         ADP     0.9045    0.9520    0.9276      6606
+         ADV     0.6016    0.6032    0.6024      2346
+       CCONJ     0.9405    0.9717    0.9558      4974
+         DET     0.9168    0.6190    0.7390      7063
+        INTJ     0.0000    0.0000    0.0000         7
+        NOUN     0.8073    0.9105    0.8558      6871
+         NUM     0.8206    0.5971    0.6912       628
+        PART     0.2321    0.3571    0.2814       672
+        PRON     0.5659    0.8390    0.6759      4119
+       PROPN     0.8609    0.6559    0.7446      2331
+       PUNCT     0.9747    0.9934    0.9840      6411
+       SCONJ     0.9720    0.6416    0.7730      4065
+         SYM     0.5714    0.0385    0.0721       208
+        VERB     0.9379    0.9226    0.9302      8958
+           X     0.1176    0.1205    0.1190        83
+
+    accuracy                         0.8316     56271
+   macro avg     0.6659    0.6281    0.6199     56271
+weighted avg     0.8570    0.8316    0.8330     56271
+
+Accuracy: 0.8316
+Balanced Accuracy: 0.6281
+Cohen's Kappa: 0.8121
+Macro Precision: 0.6659, Recall: 0.6281, F1: 0.6199
+Micro Precision: 0.8316, Recall: 0.8316, F1: 0.8316
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_t6
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: t6
+FILE_PATH: MELT\phi4\few-cat\tagging_t6_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 75/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4291    0.8138    0.5619       956
+         ADP     0.9078    0.9520    0.9294      6795
+         ADV     0.5843    0.5952    0.5897      2411
+       CCONJ     0.9398    0.9701    0.9547      5120
+         DET     0.9169    0.6254    0.7436      7271
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.8007    0.9124    0.8529      7088
+         NUM     0.8355    0.5862    0.6890       650
+        PART     0.1971    0.2707    0.2281       702
+        PRON     0.5698    0.8410    0.6793      4252
+       PROPN     0.8932    0.6559    0.7563      2409
+       PUNCT     0.9735    0.9932    0.9833      6631
+       SCONJ     0.9725    0.6558    0.7833      4204
+         SYM     0.1667    0.0047    0.0091       213
+        VERB     0.9367    0.9253    0.9310      9281
+           X     0.0957    0.1139    0.1040        79
+
+    accuracy                         0.8323     58071
+   macro avg     0.6387    0.6197    0.6122     58071
+weighted avg     0.8555    0.8323    0.8334     58071
+
+Accuracy: 0.8323
+Balanced Accuracy: 0.6197
+Cohen's Kappa: 0.8128
+Macro Precision: 0.6387, Recall: 0.6197, F1: 0.6122
+Micro Precision: 0.8323, Recall: 0.8323, F1: 0.8323
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_t8
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: t8
+FILE_PATH: MELT\phi4\few-cat\tagging_t8_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 76/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4374    0.8248    0.5716       936
+         ADP     0.9042    0.9467    0.9249      6697
+         ADV     0.5875    0.5997    0.5936      2356
+       CCONJ     0.9376    0.9698    0.9534      5037
+         DET     0.9114    0.6228    0.7400      7137
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7998    0.9104    0.8515      6974
+         NUM     0.8198    0.5730    0.6745       651
+        PART     0.1980    0.2943    0.2367       683
+        PRON     0.5675    0.8335    0.6753      4174
+       PROPN     0.8663    0.6503    0.7429      2342
+       PUNCT     0.9725    0.9929    0.9826      6489
+       SCONJ     0.9730    0.6461    0.7765      4128
+         SYM     0.2353    0.0184    0.0342       217
+        VERB     0.9363    0.9209    0.9285      9080
+           X     0.1023    0.1139    0.1078        79
+
+    accuracy                         0.8294     56989
+   macro avg     0.6406    0.6198    0.6121     56989
+weighted avg     0.8530    0.8294    0.8307     56989
+
+Accuracy: 0.8294
+Balanced Accuracy: 0.6198
+Cohen's Kappa: 0.8096
+Macro Precision: 0.6406, Recall: 0.6198, F1: 0.6121
+Micro Precision: 0.8294, Recall: 0.8294, F1: 0.8294
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_cat_t9
+MODEL: phi4
+PROMPTING: few
+DATASET: cat
+DECODING: t9
+FILE_PATH: MELT\phi4\few-cat\tagging_t9_cat_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 77/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4304    0.8163    0.5636       931
+         ADP     0.9049    0.9493    0.9266      6626
+         ADV     0.5846    0.5973    0.5909      2337
+       CCONJ     0.9369    0.9692    0.9528      4994
+         DET     0.9168    0.6202    0.7399      7054
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.8038    0.9119    0.8545      6847
+         NUM     0.8178    0.5777    0.6771       637
+        PART     0.2205    0.3201    0.2611       678
+        PRON     0.5663    0.8425    0.6774      4109
+       PROPN     0.8552    0.6539    0.7411      2349
+       PUNCT     0.9711    0.9928    0.9819      6405
+       SCONJ     0.9668    0.6381    0.7688      4103
+         SYM     0.4000    0.0187    0.0357       214
+        VERB     0.9382    0.9225    0.9302      8962
+           X     0.0976    0.0941    0.0958        85
+
+    accuracy                         0.8297     56340
+   macro avg     0.6507    0.6203    0.6123     56340
+weighted avg     0.8539    0.8297    0.8307     56340
+
+Accuracy: 0.8297
+Balanced Accuracy: 0.6203
+Cohen's Kappa: 0.8100
+Macro Precision: 0.6507, Recall: 0.6203, F1: 0.6123
+Micro Precision: 0.8297, Recall: 0.8297, F1: 0.8297
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_b15
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: b15
+FILE_PATH: MELT\phi4\few-chauliac\tagging_b15_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 78/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6015    0.6957    0.6452       115
+         ADP     0.9186    0.8390    0.8770       323
+         ADV     0.8061    0.7524    0.7783       105
+         AUX     0.3000    0.3659    0.3297        41
+       CCONJ     0.8802    0.9086    0.8942       186
+         DET     0.7474    0.9261    0.8272       230
+        NOUN     0.9225    0.8952    0.9087       439
+         NUM     0.4667    0.8750    0.6087        24
+        PRON     0.8864    0.6753    0.7666       231
+       PROPN     0.7500    0.6000    0.6667        20
+       PUNCT     1.0000    1.0000    1.0000       367
+        VERB     0.8285    0.8225    0.8255       276
+
+    accuracy                         0.8498      2357
+   macro avg     0.7590    0.7796    0.7606      2357
+weighted avg     0.8613    0.8498    0.8519      2357
+
+Accuracy: 0.8498
+Balanced Accuracy: 0.7796
+Cohen's Kappa: 0.8294
+Macro Precision: 0.7590, Recall: 0.7796, F1: 0.7606
+Micro Precision: 0.8498, Recall: 0.8498, F1: 0.8498
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_b1
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: b1
+FILE_PATH: MELT\phi4\few-chauliac\tagging_b1_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 79/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5956    0.7043    0.6454       115
+         ADP     0.9125    0.8390    0.8742       323
+         ADV     0.8061    0.7453    0.7745       106
+         AUX     0.2941    0.3659    0.3261        41
+       CCONJ     0.8802    0.9135    0.8966       185
+         DET     0.7518    0.9217    0.8281       230
+        NOUN     0.9153    0.8881    0.9015       438
+         NUM     0.4651    0.8696    0.6061        23
+        PRON     0.8914    0.6753    0.7685       231
+       PROPN     0.7500    0.6000    0.6667        20
+       PUNCT     0.9917    0.9917    0.9917       363
+        VERB     0.8242    0.8152    0.8197       276
+
+    accuracy                         0.8460      2351
+   macro avg     0.7565    0.7775    0.7582      2351
+weighted avg     0.8577    0.8460    0.8483      2351
+
+Accuracy: 0.8460
+Balanced Accuracy: 0.7775
+Cohen's Kappa: 0.8252
+Macro Precision: 0.7565, Recall: 0.7775, F1: 0.7582
+Micro Precision: 0.8460, Recall: 0.8460, F1: 0.8460
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_k20
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: k20
+FILE_PATH: MELT\phi4\few-chauliac\tagging_k20_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 80/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6212    0.7321    0.6721       112
+         ADP     0.9059    0.8280    0.8652       314
+         ADV     0.7843    0.7273    0.7547       110
+         AUX     0.2600    0.3171    0.2857        41
+       CCONJ     0.8641    0.8883    0.8760       179
+         DET     0.7464    0.9279    0.8273       222
+        NOUN     0.9218    0.8892    0.9052       424
+         NUM     0.4878    0.8333    0.6154        24
+        PRON     0.8603    0.6906    0.7662       223
+       PROPN     0.7143    0.5000    0.5882        20
+       PUNCT     0.9885    0.9885    0.9885       347
+        VERB     0.8144    0.7993    0.8068       269
+
+    accuracy                         0.8398      2285
+   macro avg     0.7474    0.7601    0.7459      2285
+weighted avg     0.8499    0.8398    0.8417      2285
+
+Accuracy: 0.8398
+Balanced Accuracy: 0.7601
+Cohen's Kappa: 0.8183
+Macro Precision: 0.7474, Recall: 0.7601, F1: 0.7459
+Micro Precision: 0.8398, Recall: 0.8398, F1: 0.8398
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_k50
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: k50
+FILE_PATH: MELT\phi4\few-chauliac\tagging_k50_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 81/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5725    0.6757    0.6198       111
+         ADP     0.9036    0.8268    0.8635       306
+         ADV     0.7849    0.7087    0.7449       103
+         AUX     0.2708    0.3421    0.3023        38
+       CCONJ     0.8840    0.9091    0.8964       176
+         DET     0.7401    0.9361    0.8266       219
+        NOUN     0.9293    0.8954    0.9120       411
+         NUM     0.4737    0.8571    0.6102        21
+        PRON     0.8862    0.6884    0.7749       215
+       PROPN     0.7222    0.7222    0.7222        18
+       PUNCT     0.9910    0.9910    0.9910       332
+        VERB     0.8185    0.7838    0.8008       259
+
+    accuracy                         0.8411      2209
+   macro avg     0.7481    0.7780    0.7554      2209
+weighted avg     0.8534    0.8411    0.8437      2209
+
+Accuracy: 0.8411
+Balanced Accuracy: 0.7780
+Cohen's Kappa: 0.8197
+Macro Precision: 0.7481, Recall: 0.7780, F1: 0.7554
+Micro Precision: 0.8411, Recall: 0.8411, F1: 0.8411
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_k5
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: k5
+FILE_PATH: MELT\phi4\few-chauliac\tagging_k5_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 82/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6047    0.6842    0.6420       114
+         ADP     0.9122    0.8411    0.8752       321
+         ADV     0.7653    0.7143    0.7389       105
+         AUX     0.2586    0.3659    0.3030        41
+       CCONJ     0.8889    0.9081    0.8984       185
+         DET     0.7343    0.9251    0.8187       227
+        NOUN     0.9284    0.9026    0.9153       431
+         NUM     0.4286    0.9000    0.5806        20
+        PRON     0.8960    0.6739    0.7692       230
+       PROPN     0.7500    0.6000    0.6667        20
+       PUNCT     0.9916    0.9888    0.9902       358
+        VERB     0.8251    0.7920    0.8082       274
+
+    accuracy                         0.8431      2326
+   macro avg     0.7486    0.7747    0.7505      2326
+weighted avg     0.8576    0.8431    0.8463      2326
+
+Accuracy: 0.8431
+Balanced Accuracy: 0.7747
+Cohen's Kappa: 0.8219
+Macro Precision: 0.7486, Recall: 0.7747, F1: 0.7505
+Micro Precision: 0.8431, Recall: 0.8431, F1: 0.8431
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_p75
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: p75
+FILE_PATH: MELT\phi4\few-chauliac\tagging_p75_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 83/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5971    0.7281    0.6561       114
+         ADP     0.9091    0.8491    0.8780       318
+         ADV     0.7835    0.7103    0.7451       107
+         AUX     0.3077    0.3902    0.3441        41
+       CCONJ     0.8783    0.9071    0.8925       183
+         DET     0.7563    0.9295    0.8340       227
+        NOUN     0.9257    0.8935    0.9093       432
+         NUM     0.4651    0.8696    0.6061        23
+        PRON     0.8736    0.6667    0.7562       228
+       PROPN     0.7647    0.6500    0.7027        20
+       PUNCT     0.9944    0.9944    0.9944       359
+        VERB     0.8199    0.7868    0.8030       272
+
+    accuracy                         0.8451      2324
+   macro avg     0.7563    0.7813    0.7601      2324
+weighted avg     0.8567    0.8451    0.8473      2324
+
+Accuracy: 0.8451
+Balanced Accuracy: 0.7813
+Cohen's Kappa: 0.8242
+Macro Precision: 0.7563, Recall: 0.7813, F1: 0.7601
+Micro Precision: 0.8451, Recall: 0.8451, F1: 0.8451
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_p85
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: p85
+FILE_PATH: MELT\phi4\few-chauliac\tagging_p85_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 84/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5725    0.6757    0.6198       111
+         ADP     0.8946    0.8376    0.8651       314
+         ADV     0.7653    0.7282    0.7463       103
+         AUX     0.2600    0.3171    0.2857        41
+       CCONJ     0.8984    0.9130    0.9057       184
+         DET     0.7491    0.9196    0.8257       224
+        NOUN     0.9207    0.8928    0.9065       429
+         NUM     0.4615    0.8571    0.6000        21
+        PRON     0.8830    0.6711    0.7626       225
+       PROPN     0.8000    0.6000    0.6857        20
+       PUNCT     0.9887    0.9915    0.9901       353
+        VERB     0.8074    0.7927    0.8000       275
+
+    accuracy                         0.8400      2300
+   macro avg     0.7501    0.7664    0.7494      2300
+weighted avg     0.8511    0.8400    0.8421      2300
+
+Accuracy: 0.8400
+Balanced Accuracy: 0.7664
+Cohen's Kappa: 0.8183
+Macro Precision: 0.7501, Recall: 0.7664, F1: 0.7494
+Micro Precision: 0.8400, Recall: 0.8400, F1: 0.8400
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_p95
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: p95
+FILE_PATH: MELT\phi4\few-chauliac\tagging_p95_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 85/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5736    0.6852    0.6245       108
+         ADP     0.9161    0.8506    0.8822       308
+         ADV     0.7917    0.7238    0.7562       105
+         AUX     0.2407    0.3333    0.2796        39
+       CCONJ     0.8994    0.9096    0.9045       177
+         DET     0.7483    0.9469    0.8359       226
+        NOUN     0.9375    0.8993    0.9180       417
+         NUM     0.4545    0.9524    0.6154        21
+        PRON     0.8922    0.6593    0.7583       226
+       PROPN     0.8125    0.7222    0.7647        18
+       PUNCT     0.9971    0.9971    0.9971       341
+        VERB     0.8164    0.7799    0.7977       268
+
+    accuracy                         0.8456      2254
+   macro avg     0.7567    0.7883    0.7612      2254
+weighted avg     0.8609    0.8456    0.8488      2254
+
+Accuracy: 0.8456
+Balanced Accuracy: 0.7883
+Cohen's Kappa: 0.8249
+Macro Precision: 0.7567, Recall: 0.7883, F1: 0.7612
+Micro Precision: 0.8456, Recall: 0.8456, F1: 0.8456
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_t6
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: t6
+FILE_PATH: MELT\phi4\few-chauliac\tagging_t6_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 86/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5954    0.6842    0.6367       114
+         ADP     0.9085    0.8428    0.8744       318
+         ADV     0.7767    0.7477    0.7619       107
+         AUX     0.3333    0.4390    0.3789        41
+       CCONJ     0.8889    0.9032    0.8960       186
+         DET     0.7609    0.9292    0.8367       226
+        NOUN     0.9131    0.9005    0.9068       432
+         NUM     0.4286    0.8571    0.5714        21
+        PRON     0.8605    0.6435    0.7363       230
+       PROPN     0.8000    0.6000    0.6857        20
+       PUNCT     0.9915    0.9915    0.9915       355
+        VERB     0.8401    0.8159    0.8278       277
+
+    accuracy                         0.8453      2327
+   macro avg     0.7581    0.7796    0.7587      2327
+weighted avg     0.8564    0.8453    0.8472      2327
+
+Accuracy: 0.8453
+Balanced Accuracy: 0.7796
+Cohen's Kappa: 0.8244
+Macro Precision: 0.7581, Recall: 0.7796, F1: 0.7587
+Micro Precision: 0.8453, Recall: 0.8453, F1: 0.8453
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_t8
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: t8
+FILE_PATH: MELT\phi4\few-chauliac\tagging_t8_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 87/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5704    0.6875    0.6235       112
+         ADP     0.9039    0.8115    0.8552       313
+         ADV     0.7404    0.7404    0.7404       104
+         AUX     0.3333    0.4359    0.3778        39
+       CCONJ     0.8871    0.8919    0.8895       185
+         DET     0.7331    0.9196    0.8158       224
+        NOUN     0.9249    0.8946    0.9095       427
+         NUM     0.4889    0.9167    0.6377        24
+        PRON     0.8713    0.6593    0.7506       226
+       PROPN     0.7647    0.6500    0.7027        20
+       PUNCT     0.9943    0.9943    0.9943       349
+        VERB     0.8161    0.7860    0.8008       271
+
+    accuracy                         0.8378      2294
+   macro avg     0.7524    0.7823    0.7581      2294
+weighted avg     0.8510    0.8378    0.8404      2294
+
+Accuracy: 0.8378
+Balanced Accuracy: 0.7823
+Cohen's Kappa: 0.8161
+Macro Precision: 0.7524, Recall: 0.7823, F1: 0.7581
+Micro Precision: 0.8378, Recall: 0.8378, F1: 0.8378
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_chauliac_t9
+MODEL: phi4
+PROMPTING: few
+DATASET: chauliac
+DECODING: t9
+FILE_PATH: MELT\phi4\few-chauliac\tagging_t9_chauliac_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 88/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5703    0.6636    0.6134       110
+         ADP     0.9084    0.8239    0.8641       301
+         ADV     0.7396    0.7172    0.7282        99
+         AUX     0.3617    0.4250    0.3908        40
+       CCONJ     0.8983    0.9034    0.9008       176
+         DET     0.7446    0.9324    0.8280       222
+        NOUN     0.9235    0.8947    0.9089       418
+         NUM     0.4872    0.8636    0.6230        22
+        PRON     0.8994    0.6816    0.7755       223
+       PROPN     0.7500    0.6316    0.6857        19
+       PUNCT     1.0000    1.0000    1.0000       341
+        VERB     0.8266    0.8327    0.8296       269
+
+    accuracy                         0.8469      2240
+   macro avg     0.7591    0.7808    0.7623      2240
+weighted avg     0.8581    0.8469    0.8488      2240
+
+Accuracy: 0.8469
+Balanced Accuracy: 0.7808
+Cohen's Kappa: 0.8262
+Macro Precision: 0.7591, Recall: 0.7808, F1: 0.7623
+Micro Precision: 0.8469, Recall: 0.8469, F1: 0.8469
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_b15
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: b15
+FILE_PATH: MELT\phi4\few-naf\tagging_b15_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 89/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6999    0.7425    0.7205      3200
+         ADP     0.8983    0.9002    0.8993      5232
+         ADV     0.5018    0.5889    0.5419      2126
+         AUX     0.5488    0.3825    0.4508      1221
+       CCONJ     0.9347    0.7259    0.8172      3335
+         DET     0.6388    0.8648    0.7348      4215
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7927    0.8854    0.8365      8852
+         NUM     0.7524    0.5184    0.6139       299
+        PART     0.3786    0.0730    0.1224       534
+        PRON     0.6724    0.4343    0.5277      4877
+       PROPN     0.8906    0.6091    0.7234      1737
+       PUNCT     0.9872    0.9882    0.9877       934
+       SCONJ     0.4533    0.6904    0.5473      1027
+        VERB     0.7856    0.8131    0.7991      7839
+
+    accuracy                         0.7501     45442
+   macro avg     0.6623    0.6145    0.6215     45442
+weighted avg     0.7549    0.7501    0.7431     45442
+
+Accuracy: 0.7501
+Balanced Accuracy: 0.6145
+Cohen's Kappa: 0.7159
+Macro Precision: 0.6623, Recall: 0.6145, F1: 0.6215
+Micro Precision: 0.7501, Recall: 0.7501, F1: 0.7501
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_b1
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: b1
+FILE_PATH: MELT\phi4\few-naf\tagging_b1_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 90/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6949    0.7390    0.7163      3199
+         ADP     0.8956    0.8998    0.8977      5232
+         ADV     0.5022    0.5857    0.5408      2124
+         AUX     0.5374    0.3882    0.4508      1221
+       CCONJ     0.9344    0.7265    0.8174      3334
+         DET     0.6391    0.8624    0.7341      4215
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7897    0.8865    0.8353      8849
+         NUM     0.7340    0.5017    0.5960       297
+        PART     0.4078    0.0787    0.1319       534
+        PRON     0.6728    0.4363    0.5294      4877
+       PROPN     0.8945    0.6005    0.7186      1737
+       PUNCT     0.9665    0.9665    0.9665       926
+       SCONJ     0.4525    0.6871    0.5457      1026
+        VERB     0.7880    0.8101    0.7989      7835
+
+    accuracy                         0.7486     45420
+   macro avg     0.6606    0.6113    0.6186     45420
+weighted avg     0.7537    0.7486    0.7417     45420
+
+Accuracy: 0.7486
+Balanced Accuracy: 0.6113
+Cohen's Kappa: 0.7142
+Macro Precision: 0.6606, Recall: 0.6113, F1: 0.6186
+Micro Precision: 0.7486, Recall: 0.7486, F1: 0.7486
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_k20
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: k20
+FILE_PATH: MELT\phi4\few-naf\tagging_k20_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 91/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6712    0.7274    0.6982      3078
+         ADP     0.8902    0.8884    0.8893      5055
+         ADV     0.5038    0.5739    0.5366      2058
+         AUX     0.4814    0.3704    0.4186      1188
+       CCONJ     0.9376    0.7288    0.8201      3219
+         DET     0.6314    0.8630    0.7293      4059
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7847    0.8688    0.8246      8500
+         NUM     0.6351    0.4963    0.5572       270
+        PART     0.4887    0.2073    0.2911       521
+        PRON     0.6539    0.4229    0.5137      4736
+       PROPN     0.8144    0.5940    0.6869      1692
+       PUNCT     0.9690    0.9791    0.9740       862
+       SCONJ     0.4523    0.6633    0.5378       986
+        VERB     0.7825    0.7896    0.7860      7563
+
+    accuracy                         0.7376     43800
+   macro avg     0.6464    0.6115    0.6176     43800
+weighted avg     0.7426    0.7376    0.7321     43800
+
+Accuracy: 0.7376
+Balanced Accuracy: 0.6115
+Cohen's Kappa: 0.7020
+Macro Precision: 0.6464, Recall: 0.6115, F1: 0.6176
+Micro Precision: 0.7376, Recall: 0.7376, F1: 0.7376
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_k50
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: k50
+FILE_PATH: MELT\phi4\few-naf\tagging_k50_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 92/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6720    0.7252    0.6976      3071
+         ADP     0.8865    0.8927    0.8896      5049
+         ADV     0.5095    0.5695    0.5379      2021
+         AUX     0.4698    0.3695    0.4137      1180
+       CCONJ     0.9326    0.7270    0.8171      3198
+         DET     0.6352    0.8562    0.7293      4055
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7903    0.8729    0.8295      8471
+         NUM     0.6809    0.4981    0.5753       257
+        PART     0.5474    0.2495    0.3428       509
+        PRON     0.6449    0.4267    0.5136      4678
+       PROPN     0.8172    0.5876    0.6837      1666
+       PUNCT     0.9673    0.9799    0.9735       844
+       SCONJ     0.4295    0.6246    0.5090       975
+        VERB     0.7796    0.7889    0.7842      7481
+
+    accuracy                         0.7380     43468
+   macro avg     0.6508    0.6112    0.6198     43468
+weighted avg     0.7425    0.7380    0.7328     43468
+
+Accuracy: 0.7380
+Balanced Accuracy: 0.6112
+Cohen's Kappa: 0.7024
+Macro Precision: 0.6508, Recall: 0.6112, F1: 0.6198
+Micro Precision: 0.7380, Recall: 0.7380, F1: 0.7380
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_k5
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: k5
+FILE_PATH: MELT\phi4\few-naf\tagging_k5_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 93/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6699    0.7261    0.6969      3195
+         ADP     0.8848    0.8883    0.8865      5212
+         ADV     0.5083    0.5762    0.5401      2119
+         AUX     0.5090    0.3957    0.4453      1218
+       CCONJ     0.9341    0.7255    0.8167      3323
+         DET     0.6385    0.8626    0.7338      4207
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7886    0.8702    0.8274      8826
+         NUM     0.6296    0.4840    0.5473       281
+        PART     0.5628    0.2109    0.3068       531
+        PRON     0.6557    0.4327    0.5214      4862
+       PROPN     0.8256    0.5936    0.6907      1730
+       PUNCT     0.9647    0.9700    0.9673       901
+       SCONJ     0.4450    0.6413    0.5254      1023
+        VERB     0.7826    0.7956    0.7890      7807
+
+    accuracy                         0.7402     45248
+   macro avg     0.6533    0.6115    0.6196     45248
+weighted avg     0.7453    0.7402    0.7349     45248
+
+Accuracy: 0.7402
+Balanced Accuracy: 0.6115
+Cohen's Kappa: 0.7049
+Macro Precision: 0.6533, Recall: 0.6115, F1: 0.6196
+Micro Precision: 0.7402, Recall: 0.7402, F1: 0.7402
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_p75
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: p75
+FILE_PATH: MELT\phi4\few-naf\tagging_p75_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 94/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6840    0.7339    0.7080      3179
+         ADP     0.8950    0.8959    0.8955      5206
+         ADV     0.5022    0.5816    0.5390      2115
+         AUX     0.5390    0.3695    0.4385      1215
+       CCONJ     0.9358    0.7246    0.8168      3322
+         DET     0.6340    0.8644    0.7315      4189
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7901    0.8811    0.8331      8777
+         NUM     0.6794    0.5000    0.5761       284
+        PART     0.5379    0.1342    0.2148       529
+        PRON     0.6638    0.4288    0.5210      4853
+       PROPN     0.8752    0.6069    0.7167      1722
+       PUNCT     0.9664    0.9697    0.9681       891
+       SCONJ     0.4517    0.6758    0.5415      1018
+        VERB     0.7813    0.8052    0.7930      7781
+
+    accuracy                         0.7450     45094
+   macro avg     0.6624    0.6114    0.6196     45094
+weighted avg     0.7508    0.7450    0.7385     45094
+
+Accuracy: 0.7450
+Balanced Accuracy: 0.6114
+Cohen's Kappa: 0.7101
+Macro Precision: 0.6624, Recall: 0.6114, F1: 0.6196
+Micro Precision: 0.7450, Recall: 0.7450, F1: 0.7450
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_p85
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: p85
+FILE_PATH: MELT\phi4\few-naf\tagging_p85_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 95/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6882    0.7332    0.7100      3152
+         ADP     0.8945    0.8945    0.8945      5174
+         ADV     0.5004    0.5802    0.5374      2094
+         AUX     0.5329    0.3831    0.4457      1206
+       CCONJ     0.9368    0.7234    0.8164      3297
+         DET     0.6385    0.8616    0.7335      4176
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7898    0.8773    0.8312      8713
+         NUM     0.6698    0.5090    0.5784       279
+        PART     0.5795    0.1943    0.2910       525
+        PRON     0.6560    0.4315    0.5206      4804
+       PROPN     0.8516    0.6027    0.7058      1704
+       PUNCT     0.9707    0.9762    0.9734       882
+       SCONJ     0.4551    0.6640    0.5401      1015
+        VERB     0.7837    0.8051    0.7943      7713
+
+    accuracy                         0.7449     44748
+   macro avg     0.6632    0.6157    0.6248     44748
+weighted avg     0.7504    0.7449    0.7392     44748
+
+Accuracy: 0.7449
+Balanced Accuracy: 0.6157
+Cohen's Kappa: 0.7101
+Macro Precision: 0.6632, Recall: 0.6157, F1: 0.6248
+Micro Precision: 0.7449, Recall: 0.7449, F1: 0.7449
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_p95
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: p95
+FILE_PATH: MELT\phi4\few-naf\tagging_p95_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 96/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6817    0.7240    0.7022      3094
+         ADP     0.8918    0.8920    0.8919      5054
+         ADV     0.5115    0.5737    0.5408      2055
+         AUX     0.4978    0.3771    0.4291      1180
+       CCONJ     0.9327    0.7253    0.8160      3229
+         DET     0.6382    0.8664    0.7350      4073
+        INTJ     0.0000    0.0000    0.0000        12
+        NOUN     0.7847    0.8723    0.8262      8535
+         NUM     0.6453    0.4695    0.5436       279
+        PART     0.5688    0.2408    0.3383       515
+        PRON     0.6600    0.4394    0.5275      4709
+       PROPN     0.8399    0.5970    0.6979      1670
+       PUNCT     0.9829    0.9851    0.9840       873
+       SCONJ     0.4479    0.6549    0.5320       991
+        VERB     0.7818    0.7938    0.7877      7559
+
+    accuracy                         0.7419     43828
+   macro avg     0.6577    0.6141    0.6235     43828
+weighted avg     0.7474    0.7419    0.7368     43828
+
+Accuracy: 0.7419
+Balanced Accuracy: 0.6141
+Cohen's Kappa: 0.7068
+Macro Precision: 0.6577, Recall: 0.6141, F1: 0.6235
+Micro Precision: 0.7419, Recall: 0.7419, F1: 0.7419
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_t6
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: t6
+FILE_PATH: MELT\phi4\few-naf\tagging_t6_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 97/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6863    0.7338    0.7093      3170
+         ADP     0.8933    0.8971    0.8952      5197
+         ADV     0.4939    0.5802    0.5336      2094
+         AUX     0.5344    0.3728    0.4392      1207
+       CCONJ     0.9363    0.7210    0.8147      3305
+         DET     0.6359    0.8664    0.7335      4177
+        INTJ     0.0000    0.0000    0.0000        11
+        NOUN     0.7910    0.8786    0.8325      8745
+         NUM     0.7143    0.5208    0.6024       288
+        PART     0.4211    0.1214    0.1885       527
+        PRON     0.6673    0.4287    0.5220      4833
+       PROPN     0.8607    0.6087    0.7131      1725
+       PUNCT     0.9700    0.9657    0.9679       905
+       SCONJ     0.4517    0.6673    0.5387      1016
+        VERB     0.7824    0.8066    0.7943      7765
+
+    accuracy                         0.7448     44965
+   macro avg     0.6559    0.6113    0.6190     44965
+weighted avg     0.7498    0.7448    0.7384     44965
+
+Accuracy: 0.7448
+Balanced Accuracy: 0.6113
+Cohen's Kappa: 0.7099
+Macro Precision: 0.6559, Recall: 0.6113, F1: 0.6190
+Micro Precision: 0.7448, Recall: 0.7448, F1: 0.7448
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_t8
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: t8
+FILE_PATH: MELT\phi4\few-naf\tagging_t8_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 98/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6807    0.7314    0.7051      3142
+         ADP     0.8904    0.8956    0.8930      5115
+         ADV     0.5002    0.5791    0.5368      2074
+         AUX     0.5180    0.3859    0.4423      1192
+       CCONJ     0.9310    0.7229    0.8138      3269
+         DET     0.6370    0.8655    0.7339      4120
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7871    0.8766    0.8294      8644
+         NUM     0.6827    0.5090    0.5832       279
+        PART     0.5640    0.1865    0.2803       520
+        PRON     0.6571    0.4247    0.5159      4766
+       PROPN     0.8456    0.5966    0.6996      1698
+       PUNCT     0.9797    0.9831    0.9814       885
+       SCONJ     0.4469    0.6531    0.5307      1006
+        VERB     0.7857    0.7982    0.7919      7665
+
+    accuracy                         0.7427     44388
+   macro avg     0.6604    0.6139    0.6225     44388
+weighted avg     0.7482    0.7427    0.7368     44388
+
+Accuracy: 0.7427
+Balanced Accuracy: 0.6139
+Cohen's Kappa: 0.7076
+Macro Precision: 0.6604, Recall: 0.6139, F1: 0.6225
+Micro Precision: 0.7427, Recall: 0.7427, F1: 0.7427
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_few_naf_t9
+MODEL: phi4
+PROMPTING: few
+DATASET: naf
+DECODING: t9
+FILE_PATH: MELT\phi4\few-naf\tagging_t9_naf_few_phi4_5\classification_report.txt
+REPORT_NUMBER: 99/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6736    0.7353    0.7031      3087
+         ADP     0.8907    0.8931    0.8919      5090
+         ADV     0.5064    0.5768    0.5393      2044
+         AUX     0.5100    0.3873    0.4403      1180
+       CCONJ     0.9338    0.7290    0.8188      3229
+         DET     0.6394    0.8648    0.7352      4084
+        INTJ     0.0000    0.0000    0.0000        12
+        NOUN     0.7895    0.8755    0.8303      8572
+         NUM     0.6636    0.5145    0.5796       276
+        PART     0.5596    0.2355    0.3315       518
+        PRON     0.6504    0.4244    0.5136      4729
+       PROPN     0.8380    0.5970    0.6973      1690
+       PUNCT     0.9770    0.9827    0.9799       866
+       SCONJ     0.4486    0.6526    0.5317       996
+        VERB     0.7869    0.7940    0.7904      7555
+
+    accuracy                         0.7426     43928
+   macro avg     0.6578    0.6175    0.6255     43928
+weighted avg     0.7477    0.7426    0.7372     43928
+
+Accuracy: 0.7426
+Balanced Accuracy: 0.6175
+Cohen's Kappa: 0.7077
+Macro Precision: 0.6578, Recall: 0.6175, F1: 0.6255
+Micro Precision: 0.7426, Recall: 0.7426, F1: 0.7426
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_b15
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: b15
+FILE_PATH: MELT\phi4\zero-cat\tagging_b15_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 100/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4041    0.7899    0.5347       971
+         ADP     0.8821    0.9318    0.9063      6910
+         ADV     0.5764    0.5228    0.5483      2452
+       CCONJ     0.9490    0.9639    0.9564      5209
+         DET     0.8725    0.6297    0.7315      7404
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7538    0.8933    0.8176      7234
+         NUM     0.8827    0.4486    0.5949       671
+        PART     0.1005    0.1547    0.1219       711
+        PRON     0.5458    0.8014    0.6494      4311
+       PROPN     0.8301    0.5962    0.6940      2474
+       PUNCT     0.9766    0.9997    0.9880      6858
+       SCONJ     0.9772    0.5815    0.7291      4270
+         SYM     0.4375    0.0310    0.0579       226
+        VERB     0.9215    0.9051    0.9132      9564
+           X     0.0719    0.1412    0.0952        85
+
+    accuracy                         0.8084     59359
+   macro avg     0.6364    0.5869    0.5836     59359
+weighted avg     0.8359    0.8084    0.8101     59359
+
+Accuracy: 0.8084
+Balanced Accuracy: 0.5869
+Cohen's Kappa: 0.7861
+Macro Precision: 0.6364, Recall: 0.5869, F1: 0.5836
+Micro Precision: 0.8084, Recall: 0.8084, F1: 0.8084
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_b1
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: b1
+FILE_PATH: MELT\phi4\zero-cat\tagging_b1_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 101/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4037    0.7899    0.5343       971
+         ADP     0.8803    0.9336    0.9062      6910
+         ADV     0.5782    0.5173    0.5461      2451
+       CCONJ     0.9509    0.9629    0.9569      5209
+         DET     0.8718    0.6285    0.7304      7402
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7500    0.8947    0.8160      7234
+         NUM     0.8850    0.4471    0.5941       671
+        PART     0.1108    0.1660    0.1329       711
+        PRON     0.5454    0.8037    0.6498      4310
+       PROPN     0.8422    0.5889    0.6931      2474
+       PUNCT     0.9762    0.9997    0.9878      6858
+       SCONJ     0.9766    0.5866    0.7329      4269
+         SYM     0.3846    0.0221    0.0418       226
+        VERB     0.9215    0.9044    0.9128      9526
+           X     0.0643    0.1294    0.0859        85
+
+    accuracy                         0.8085     59316
+   macro avg     0.6338    0.5859    0.5826     59316
+weighted avg     0.8356    0.8085    0.8099     59316
+
+Accuracy: 0.8085
+Balanced Accuracy: 0.5859
+Cohen's Kappa: 0.7861
+Macro Precision: 0.6338, Recall: 0.5859, F1: 0.5826
+Micro Precision: 0.8085, Recall: 0.8085, F1: 0.8085
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_k20
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: k20
+FILE_PATH: MELT\phi4\zero-cat\tagging_k20_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 102/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3755    0.7752    0.5059       961
+         ADP     0.8703    0.9236    0.8962      6873
+         ADV     0.5890    0.5093    0.5463      2429
+       CCONJ     0.9476    0.9571    0.9524      5180
+         DET     0.8595    0.6178    0.7188      7367
+        INTJ     0.0182    0.1111    0.0312         9
+        NOUN     0.7541    0.8818    0.8130      7192
+         NUM     0.8580    0.4199    0.5639       662
+        PART     0.1728    0.2930    0.2174       703
+        PRON     0.5323    0.7901    0.6361      4292
+       PROPN     0.7865    0.6004    0.6810      2460
+       PUNCT     0.9697    0.9984    0.9839      6807
+       SCONJ     0.9598    0.5354    0.6874      4240
+         SYM     0.1842    0.0310    0.0530       226
+        VERB     0.9146    0.8905    0.9024      9355
+           X     0.0428    0.0941    0.0588        85
+
+    accuracy                         0.7978     58841
+   macro avg     0.6147    0.5893    0.5780     58841
+weighted avg     0.8263    0.7978    0.7996     58841
+
+Accuracy: 0.7978
+Balanced Accuracy: 0.5893
+Cohen's Kappa: 0.7744
+Macro Precision: 0.6147, Recall: 0.5893, F1: 0.5780
+Micro Precision: 0.7978, Recall: 0.7978, F1: 0.7978
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_k50
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: k50
+FILE_PATH: MELT\phi4\zero-cat\tagging_k50_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 103/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3754    0.7750    0.5058       960
+         ADP     0.8744    0.9248    0.8989      6872
+         ADV     0.5822    0.5064    0.5416      2435
+       CCONJ     0.9459    0.9600    0.9529      5173
+         DET     0.8600    0.6206    0.7210      7357
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7550    0.8810    0.8132      7187
+         NUM     0.8491    0.4329    0.5734       663
+        PART     0.1677    0.2744    0.2082       707
+        PRON     0.5380    0.7954    0.6419      4287
+       PROPN     0.7775    0.6011    0.6780      2459
+       PUNCT     0.9725    0.9991    0.9856      6802
+       SCONJ     0.9644    0.5492    0.6998      4237
+         SYM     0.3125    0.0444    0.0778       225
+        VERB     0.9177    0.8921    0.9047      9386
+           X     0.0481    0.1059    0.0662        85
+
+    accuracy                         0.8001     58844
+   macro avg     0.6213    0.5851    0.5793     58844
+weighted avg     0.8280    0.8001    0.8019     58844
+
+Accuracy: 0.8001
+Balanced Accuracy: 0.5851
+Cohen's Kappa: 0.7769
+Macro Precision: 0.6213, Recall: 0.5851, F1: 0.5793
+Micro Precision: 0.8001, Recall: 0.8001, F1: 0.8001
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_k5
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: k5
+FILE_PATH: MELT\phi4\zero-cat\tagging_k5_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 104/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3783    0.7692    0.5072       966
+         ADP     0.8714    0.9231    0.8965      6890
+         ADV     0.5753    0.5035    0.5370      2435
+       CCONJ     0.9471    0.9578    0.9524      5194
+         DET     0.8616    0.6187    0.7202      7383
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7541    0.8809    0.8126      7207
+         NUM     0.8452    0.4251    0.5657       668
+        PART     0.1557    0.2535    0.1929       706
+        PRON     0.5325    0.7983    0.6389      4294
+       PROPN     0.7951    0.6092    0.6898      2459
+       PUNCT     0.9710    0.9999    0.9852      6833
+       SCONJ     0.9663    0.5334    0.6874      4250
+         SYM     0.3714    0.0578    0.1000       225
+        VERB     0.9146    0.8931    0.9037      9384
+           X     0.0476    0.1059    0.0657        85
+
+    accuracy                         0.7987     58988
+   macro avg     0.6242    0.5831    0.5785     58988
+weighted avg     0.8275    0.7987    0.8003     58988
+
+Accuracy: 0.7987
+Balanced Accuracy: 0.5831
+Cohen's Kappa: 0.7753
+Macro Precision: 0.6242, Recall: 0.5831, F1: 0.5785
+Micro Precision: 0.7987, Recall: 0.7987, F1: 0.7987
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_p75
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: p75
+FILE_PATH: MELT\phi4\zero-cat\tagging_p75_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 105/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3930    0.7796    0.5226       971
+         ADP     0.8763    0.9304    0.9025      6912
+         ADV     0.5782    0.5149    0.5447      2457
+       CCONJ     0.9485    0.9624    0.9554      5208
+         DET     0.8651    0.6268    0.7269      7398
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7551    0.8906    0.8173      7232
+         NUM     0.8892    0.4426    0.5910       671
+        PART     0.1241    0.2006    0.1533       708
+        PRON     0.5453    0.7999    0.6485      4308
+       PROPN     0.8186    0.6002    0.6926      2474
+       PUNCT     0.9766    0.9997    0.9880      6858
+       SCONJ     0.9769    0.5655    0.7163      4267
+         SYM     0.2222    0.0177    0.0328       226
+        VERB     0.9209    0.9026    0.9116      9528
+           X     0.0508    0.1059    0.0687        85
+
+    accuracy                         0.8058     59312
+   macro avg     0.6213    0.5837    0.5795     59312
+weighted avg     0.8331    0.8058    0.8075     59312
+
+Accuracy: 0.8058
+Balanced Accuracy: 0.5837
+Cohen's Kappa: 0.7832
+Macro Precision: 0.6213, Recall: 0.5837, F1: 0.5795
+Micro Precision: 0.8058, Recall: 0.8058, F1: 0.8058
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_p85
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: p85
+FILE_PATH: MELT\phi4\zero-cat\tagging_p85_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 106/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.4013    0.7876    0.5317       970
+         ADP     0.8765    0.9287    0.9018      6911
+         ADV     0.5800    0.5143    0.5452      2452
+       CCONJ     0.9503    0.9618    0.9560      5209
+         DET     0.8644    0.6247    0.7253      7400
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7543    0.8915    0.8172      7233
+         NUM     0.8769    0.4352    0.5817       671
+        PART     0.1507    0.2479    0.1874       710
+        PRON     0.5383    0.7979    0.6429      4320
+       PROPN     0.8171    0.6038    0.6944      2471
+       PUNCT     0.9757    0.9999    0.9876      6857
+       SCONJ     0.9753    0.5553    0.7077      4266
+         SYM     0.1481    0.0177    0.0316       226
+        VERB     0.9208    0.9007    0.9106      9473
+           X     0.0539    0.1059    0.0714        85
+
+    accuracy                         0.8049     59263
+   macro avg     0.6177    0.5858    0.5808     59263
+weighted avg     0.8323    0.8049    0.8064     59263
+
+Accuracy: 0.8049
+Balanced Accuracy: 0.5858
+Cohen's Kappa: 0.7822
+Macro Precision: 0.6177, Recall: 0.5858, F1: 0.5808
+Micro Precision: 0.8049, Recall: 0.8049, F1: 0.8049
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_p95
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: p95
+FILE_PATH: MELT\phi4\zero-cat\tagging_p95_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 107/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3782    0.7748    0.5083       968
+         ADP     0.8743    0.9253    0.8991      6893
+         ADV     0.5828    0.5123    0.5453      2446
+       CCONJ     0.9466    0.9607    0.9536      5187
+         DET     0.8669    0.6233    0.7252      7378
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7577    0.8835    0.8158      7213
+         NUM     0.8769    0.4398    0.5858       664
+        PART     0.1595    0.2648    0.1990       710
+        PRON     0.5366    0.8005    0.6425      4301
+       PROPN     0.7907    0.5971    0.6804      2455
+       PUNCT     0.9741    0.9994    0.9866      6821
+       SCONJ     0.9708    0.5395    0.6936      4252
+         SYM     0.4286    0.0531    0.0945       226
+        VERB     0.9143    0.8962    0.9052      9392
+           X     0.0651    0.1294    0.0866        85
+
+    accuracy                         0.8013     59000
+   macro avg     0.6327    0.5875    0.5826     59000
+weighted avg     0.8304    0.8013    0.8030     59000
+
+Accuracy: 0.8013
+Balanced Accuracy: 0.5875
+Cohen's Kappa: 0.7782
+Macro Precision: 0.6327, Recall: 0.5875, F1: 0.5826
+Micro Precision: 0.8013, Recall: 0.8013, F1: 0.8013
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_t6
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: t6
+FILE_PATH: MELT\phi4\zero-cat\tagging_t6_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 108/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3911    0.7887    0.5229       970
+         ADP     0.8774    0.9288    0.9024      6906
+         ADV     0.5831    0.5167    0.5479      2450
+       CCONJ     0.9490    0.9614    0.9552      5207
+         DET     0.8704    0.6287    0.7301      7404
+        INTJ     0.0000    0.0000    0.0000         9
+        NOUN     0.7525    0.8888    0.8150      7229
+         NUM     0.8832    0.4396    0.5871       671
+        PART     0.1341    0.2172    0.1659       709
+        PRON     0.5415    0.8011    0.6462      4308
+       PROPN     0.8192    0.5936    0.6884      2473
+       PUNCT     0.9755    0.9999    0.9875      6855
+       SCONJ     0.9734    0.5589    0.7101      4262
+         SYM     0.4500    0.0402    0.0738       224
+        VERB     0.9194    0.8999    0.9095      9507
+           X     0.0621    0.1294    0.0840        85
+
+    accuracy                         0.8050     59269
+   macro avg     0.6364    0.5870    0.5829     59269
+weighted avg     0.8339    0.8050    0.8068     59269
+
+Accuracy: 0.8050
+Balanced Accuracy: 0.5870
+Cohen's Kappa: 0.7823
+Macro Precision: 0.6364, Recall: 0.5870, F1: 0.5829
+Micro Precision: 0.8050, Recall: 0.8050, F1: 0.8050
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_t8
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: t8
+FILE_PATH: MELT\phi4\zero-cat\tagging_t8_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 109/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3908    0.7735    0.5193       967
+         ADP     0.8754    0.9282    0.9010      6890
+         ADV     0.5760    0.5074    0.5395      2442
+       CCONJ     0.9485    0.9617    0.9550      5192
+         DET     0.8632    0.6206    0.7221      7381
+        INTJ     0.0204    0.1111    0.0345         9
+        NOUN     0.7585    0.8877    0.8180      7214
+         NUM     0.8606    0.4264    0.5703       666
+        PART     0.1455    0.2320    0.1788       707
+        PRON     0.5338    0.7976    0.6396      4299
+       PROPN     0.8013    0.6061    0.6902      2455
+       PUNCT     0.9739    0.9999    0.9867      6838
+       SCONJ     0.9686    0.5515    0.7028      4256
+         SYM     0.2692    0.0310    0.0556       226
+        VERB     0.9184    0.8990    0.9086      9437
+           X     0.0484    0.1059    0.0664        85
+
+    accuracy                         0.8027     59064
+   macro avg     0.6220    0.5900    0.5805     59064
+weighted avg     0.8302    0.8027    0.8042     59064
+
+Accuracy: 0.8027
+Balanced Accuracy: 0.5900
+Cohen's Kappa: 0.7797
+Macro Precision: 0.6220, Recall: 0.5900, F1: 0.5805
+Micro Precision: 0.8027, Recall: 0.8027, F1: 0.8027
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_cat_t9
+MODEL: phi4
+PROMPTING: zero
+DATASET: cat
+DECODING: t9
+FILE_PATH: MELT\phi4\zero-cat\tagging_t9_cat_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 110/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.3871    0.7836    0.5182       961
+         ADP     0.8738    0.9233    0.8978      6882
+         ADV     0.5889    0.5076    0.5452      2441
+       CCONJ     0.9482    0.9607    0.9544      5187
+         DET     0.8635    0.6208    0.7223      7377
+        INTJ     0.0208    0.1111    0.0351         9
+        NOUN     0.7558    0.8888    0.8169      7201
+         NUM     0.8571    0.4344    0.5766       663
+        PART     0.1566    0.2673    0.1975       707
+        PRON     0.5350    0.7922    0.6387      4292
+       PROPN     0.8050    0.6062    0.6916      2458
+       PUNCT     0.9740    0.9997    0.9867      6831
+       SCONJ     0.9693    0.5507    0.7023      4244
+         SYM     0.2571    0.0400    0.0692       225
+        VERB     0.9168    0.8964    0.9065      9379
+           X     0.0588    0.1176    0.0784        85
+
+    accuracy                         0.8020     58942
+   macro avg     0.6230    0.5938    0.5836     58942
+weighted avg     0.8303    0.8020    0.8038     58942
+
+Accuracy: 0.8020
+Balanced Accuracy: 0.5938
+Cohen's Kappa: 0.7790
+Macro Precision: 0.6230, Recall: 0.5938, F1: 0.5836
+Micro Precision: 0.8020, Recall: 0.8020, F1: 0.8020
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_b15
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: b15
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_b15_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 111/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5882    0.6957    0.6375       115
+         ADP     0.9262    0.7723    0.8423       325
+         ADV     0.8387    0.7358    0.7839       106
+         AUX     0.2500    0.2927    0.2697        41
+       CCONJ     0.8607    0.9454    0.9010       183
+         DET     0.6961    0.9261    0.7948       230
+        NOUN     0.9120    0.8975    0.9047       439
+         NUM     0.6400    0.6957    0.6667        23
+        PRON     0.8833    0.6795    0.7681       234
+       PROPN     0.6842    0.6500    0.6667        20
+       PUNCT     1.0000    1.0000    1.0000       358
+        VERB     0.8156    0.8303    0.8229       277
+
+    accuracy                         0.8409      2351
+   macro avg     0.7579    0.7601    0.7548      2351
+weighted avg     0.8528    0.8409    0.8424      2351
+
+Accuracy: 0.8409
+Balanced Accuracy: 0.7601
+Cohen's Kappa: 0.8193
+Macro Precision: 0.7579, Recall: 0.7601, F1: 0.7548
+Micro Precision: 0.8409, Recall: 0.8409, F1: 0.8409
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_b1
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: b1
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_b1_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 112/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5956    0.7043    0.6454       115
+         ADP     0.9194    0.7747    0.8409       324
+         ADV     0.8667    0.7358    0.7959       106
+         AUX     0.2453    0.3171    0.2766        41
+       CCONJ     0.8600    0.9399    0.8982       183
+         DET     0.6971    0.9304    0.7970       230
+        NOUN     0.9097    0.8952    0.9024       439
+         NUM     0.6400    0.7273    0.6809        22
+        PRON     0.8889    0.6838    0.7729       234
+       PROPN     0.7647    0.6500    0.7027        20
+       PUNCT     0.9972    0.9972    0.9972       355
+        VERB     0.8129    0.8159    0.8144       277
+
+    accuracy                         0.8402      2346
+   macro avg     0.7665    0.7643    0.7604      2346
+weighted avg     0.8533    0.8402    0.8422      2346
+
+Accuracy: 0.8402
+Balanced Accuracy: 0.7643
+Cohen's Kappa: 0.8184
+Macro Precision: 0.7665, Recall: 0.7643, F1: 0.7604
+Micro Precision: 0.8402, Recall: 0.8402, F1: 0.8402
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_k20
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k20
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_k20_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 113/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5952    0.6579    0.6250       114
+         ADP     0.9294    0.7911    0.8547       316
+         ADV     0.8556    0.7333    0.7897       105
+         AUX     0.2800    0.3500    0.3111        40
+       CCONJ     0.8782    0.9351    0.9058       185
+         DET     0.7082    0.9432    0.8090       229
+        NOUN     0.9196    0.8984    0.9089       433
+         NUM     0.5862    0.8500    0.6939        20
+        PRON     0.8579    0.6797    0.7585       231
+       PROPN     0.7000    0.7000    0.7000        20
+       PUNCT     0.9972    0.9972    0.9972       355
+        VERB     0.8182    0.8212    0.8197       274
+
+    accuracy                         0.8445      2322
+   macro avg     0.7605    0.7798    0.7644      2322
+weighted avg     0.8559    0.8445    0.8461      2322
+
+Accuracy: 0.8445
+Balanced Accuracy: 0.7798
+Cohen's Kappa: 0.8234
+Macro Precision: 0.7605, Recall: 0.7798, F1: 0.7644
+Micro Precision: 0.8445, Recall: 0.8445, F1: 0.8445
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_k50
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k50
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_k50_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 114/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5649    0.6435    0.6016       115
+         ADP     0.9104    0.7625    0.8299       320
+         ADV     0.8675    0.6857    0.7660       105
+         AUX     0.2400    0.2927    0.2637        41
+       CCONJ     0.8621    0.9511    0.9044       184
+         DET     0.6913    0.9348    0.7948       230
+        NOUN     0.9173    0.8920    0.9044       435
+         NUM     0.6154    0.7619    0.6809        21
+        PRON     0.8895    0.6880    0.7759       234
+       PROPN     0.7000    0.7000    0.7000        20
+       PUNCT     1.0000    0.9972    0.9986       354
+        VERB     0.7965    0.8255    0.8107       275
+
+    accuracy                         0.8359      2334
+   macro avg     0.7546    0.7612    0.7526      2334
+weighted avg     0.8492    0.8359    0.8376      2334
+
+Accuracy: 0.8359
+Balanced Accuracy: 0.7612
+Cohen's Kappa: 0.8136
+Macro Precision: 0.7546, Recall: 0.7612, F1: 0.7526
+Micro Precision: 0.8359, Recall: 0.8359, F1: 0.8359
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_k5
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: k5
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_k5_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 115/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5859    0.6522    0.6173       115
+         ADP     0.9048    0.7671    0.8303       322
+         ADV     0.8706    0.7327    0.7957       101
+         AUX     0.2727    0.3659    0.3125        41
+       CCONJ     0.8827    0.9351    0.9081       185
+         DET     0.6806    0.9174    0.7815       230
+        NOUN     0.9153    0.9112    0.9132       439
+         NUM     0.6154    0.6957    0.6531        23
+        PRON     0.8804    0.6894    0.7733       235
+       PROPN     0.8000    0.6000    0.6857        20
+       PUNCT     1.0000    1.0000    1.0000       357
+        VERB     0.7957    0.8014    0.7986       277
+
+    accuracy                         0.8375      2345
+   macro avg     0.7670    0.7557    0.7558      2345
+weighted avg     0.8503    0.8375    0.8396      2345
+
+Accuracy: 0.8375
+Balanced Accuracy: 0.7557
+Cohen's Kappa: 0.8153
+Macro Precision: 0.7670, Recall: 0.7557, F1: 0.7558
+Micro Precision: 0.8375, Recall: 0.8375, F1: 0.8375
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_p75
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p75
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_p75_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 116/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5865    0.6783    0.6290       115
+         ADP     0.9148    0.7671    0.8345       322
+         ADV     0.8736    0.6972    0.7755       109
+         AUX     0.2593    0.3415    0.2947        41
+       CCONJ     0.8636    0.9344    0.8976       183
+         DET     0.6869    0.9348    0.7919       230
+        NOUN     0.9126    0.9043    0.9085       439
+         NUM     0.6400    0.6957    0.6667        23
+        PRON     0.8983    0.6766    0.7718       235
+       PROPN     0.7222    0.6500    0.6842        20
+       PUNCT     1.0000    1.0000    1.0000       358
+        VERB     0.8063    0.8267    0.8164       277
+
+    accuracy                         0.8389      2352
+   macro avg     0.7637    0.7589    0.7559      2352
+weighted avg     0.8530    0.8389    0.8407      2352
+
+Accuracy: 0.8389
+Balanced Accuracy: 0.7589
+Cohen's Kappa: 0.8169
+Macro Precision: 0.7637, Recall: 0.7589, F1: 0.7559
+Micro Precision: 0.8389, Recall: 0.8389, F1: 0.8389
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_p85
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p85
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_p85_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 117/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6154    0.6957    0.6531       115
+         ADP     0.9191    0.7740    0.8403       323
+         ADV     0.8152    0.7282    0.7692       103
+         AUX     0.2105    0.3000    0.2474        40
+       CCONJ     0.8657    0.9305    0.8969       187
+         DET     0.7013    0.9391    0.8030       230
+        NOUN     0.9211    0.9064    0.9137       438
+         NUM     0.6667    0.6957    0.6809        23
+        PRON     0.8851    0.6667    0.7605       231
+       PROPN     0.6842    0.6500    0.6667        20
+       PUNCT     1.0000    1.0000    1.0000       357
+        VERB     0.7978    0.8036    0.8007       275
+
+    accuracy                         0.8390      2342
+   macro avg     0.7568    0.7575    0.7527      2342
+weighted avg     0.8525    0.8390    0.8412      2342
+
+Accuracy: 0.8390
+Balanced Accuracy: 0.7575
+Cohen's Kappa: 0.8171
+Macro Precision: 0.7568, Recall: 0.7575, F1: 0.7527
+Micro Precision: 0.8390, Recall: 0.8390, F1: 0.8390
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_p95
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: p95
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_p95_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 118/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5954    0.6783    0.6341       115
+         ADP     0.9272    0.7492    0.8288       323
+         ADV     0.8333    0.7547    0.7921       106
+         AUX     0.2453    0.3171    0.2766        41
+       CCONJ     0.8600    0.9348    0.8958       184
+         DET     0.6958    0.9430    0.8007       228
+        NOUN     0.9144    0.9060    0.9101       436
+         NUM     0.5862    0.7083    0.6415        24
+        PRON     0.8883    0.6943    0.7794       229
+       PROPN     0.7500    0.6000    0.6667        20
+       PUNCT     1.0000    1.0000    1.0000       361
+        VERB     0.8188    0.8188    0.8188       276
+
+    accuracy                         0.8408      2343
+   macro avg     0.7596    0.7587    0.7537      2343
+weighted avg     0.8542    0.8408    0.8427      2343
+
+Accuracy: 0.8408
+Balanced Accuracy: 0.7587
+Cohen's Kappa: 0.8192
+Macro Precision: 0.7596, Recall: 0.7587, F1: 0.7537
+Micro Precision: 0.8408, Recall: 0.8408, F1: 0.8408
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_t6
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t6
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_t6_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 119/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5865    0.6783    0.6290       115
+         ADP     0.9225    0.7740    0.8418       323
+         ADV     0.8851    0.7404    0.8063       104
+         AUX     0.2353    0.2927    0.2609        41
+       CCONJ     0.8700    0.9457    0.9062       184
+         DET     0.6903    0.9304    0.7926       230
+        NOUN     0.9165    0.8998    0.9080       439
+         NUM     0.6296    0.8095    0.7083        21
+        PRON     0.8840    0.6809    0.7692       235
+       PROPN     0.8000    0.6000    0.6857        20
+       PUNCT     1.0000    1.0000    1.0000       357
+        VERB     0.8057    0.8231    0.8143       277
+
+    accuracy                         0.8414      2346
+   macro avg     0.7688    0.7646    0.7602      2346
+weighted avg     0.8548    0.8414    0.8433      2346
+
+Accuracy: 0.8414
+Balanced Accuracy: 0.7646
+Cohen's Kappa: 0.8198
+Macro Precision: 0.7688, Recall: 0.7646, F1: 0.7602
+Micro Precision: 0.8414, Recall: 0.8414, F1: 0.8414
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_t8
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t8
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_t8_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 120/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5846    0.6667    0.6230       114
+         ADP     0.9182    0.7743    0.8401       319
+         ADV     0.8295    0.6952    0.7565       105
+         AUX     0.2917    0.3415    0.3146        41
+       CCONJ     0.8600    0.9348    0.8958       184
+         DET     0.6964    0.9174    0.7917       230
+        NOUN     0.9104    0.8853    0.8977       436
+         NUM     0.6071    0.7391    0.6667        23
+        PRON     0.8820    0.6826    0.7696       230
+       PROPN     0.6316    0.6000    0.6154        20
+       PUNCT     1.0000    1.0000    1.0000       354
+        VERB     0.7973    0.8406    0.8183       276
+
+    accuracy                         0.8366      2332
+   macro avg     0.7507    0.7565    0.7491      2332
+weighted avg     0.8480    0.8366    0.8380      2332
+
+Accuracy: 0.8366
+Balanced Accuracy: 0.7565
+Cohen's Kappa: 0.8144
+Macro Precision: 0.7507, Recall: 0.7565, F1: 0.7491
+Micro Precision: 0.8366, Recall: 0.8366, F1: 0.8366
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_chauliac_t9
+MODEL: phi4
+PROMPTING: zero
+DATASET: chauliac
+DECODING: t9
+FILE_PATH: MELT\phi4\zero-chauliac\tagging_t9_chauliac_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 121/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.5564    0.6491    0.5992       114
+         ADP     0.9154    0.7604    0.8307       313
+         ADV     0.8478    0.7358    0.7879       106
+         AUX     0.2143    0.2927    0.2474        41
+       CCONJ     0.8622    0.9337    0.8966       181
+         DET     0.7076    0.9301    0.8038       229
+        NOUN     0.9204    0.8993    0.9097       437
+         NUM     0.6000    0.6522    0.6250        23
+        PRON     0.8778    0.6810    0.7670       232
+       PROPN     0.7000    0.7000    0.7000        20
+       PUNCT     0.9972    1.0000    0.9986       356
+        VERB     0.7943    0.8087    0.8014       277
+
+    accuracy                         0.8347      2329
+   macro avg     0.7495    0.7536    0.7473      2329
+weighted avg     0.8482    0.8347    0.8371      2329
+
+Accuracy: 0.8347
+Balanced Accuracy: 0.7536
+Cohen's Kappa: 0.8123
+Macro Precision: 0.7495, Recall: 0.7536, F1: 0.7473
+Micro Precision: 0.8347, Recall: 0.8347, F1: 0.8347
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_b15
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: b15
+FILE_PATH: MELT\phi4\zero-naf\tagging_b15_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 122/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6649    0.7463    0.7033      3201
+         ADP     0.8737    0.8928    0.8831      5231
+         ADV     0.5044    0.5339    0.5187      2126
+         AUX     0.5102    0.3282    0.3994      1222
+       CCONJ     0.9626    0.6863    0.8013      3334
+         DET     0.6151    0.8722    0.7214      4217
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7557    0.8679    0.8080      8851
+         NUM     0.8239    0.4048    0.5429       289
+        PART     0.5522    0.1386    0.2216       534
+        PRON     0.6413    0.4091    0.4995      4877
+       PROPN     0.8293    0.5673    0.6737      1738
+       PUNCT     0.9821    0.9979    0.9899       935
+       SCONJ     0.4962    0.6349    0.5570      1027
+        VERB     0.7524    0.7737    0.7629      7836
+
+    accuracy                         0.7277     45432
+   macro avg     0.6643    0.5902    0.6055     45432
+weighted avg     0.7332    0.7277    0.7194     45432
+
+Accuracy: 0.7277
+Balanced Accuracy: 0.5902
+Cohen's Kappa: 0.6900
+Macro Precision: 0.6643, Recall: 0.5902, F1: 0.6055
+Micro Precision: 0.7277, Recall: 0.7277, F1: 0.7277
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_b1
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: b1
+FILE_PATH: MELT\phi4\zero-naf\tagging_b1_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 123/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6638    0.7476    0.7032      3201
+         ADP     0.8671    0.8933    0.8800      5231
+         ADV     0.5056    0.5301    0.5176      2126
+         AUX     0.5087    0.3363    0.4049      1222
+       CCONJ     0.9629    0.6857    0.8010      3334
+         DET     0.6175    0.8729    0.7233      4217
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7542    0.8706    0.8083      8851
+         NUM     0.8156    0.3993    0.5361       288
+        PART     0.5714    0.1498    0.2374       534
+        PRON     0.6460    0.4079    0.5001      4876
+       PROPN     0.8379    0.5621    0.6729      1738
+       PUNCT     0.9811    0.9968    0.9889       935
+       SCONJ     0.4970    0.6417    0.5601      1027
+        VERB     0.7538    0.7702    0.7619      7836
+
+    accuracy                         0.7278     45430
+   macro avg     0.6655    0.5910    0.6064     45430
+weighted avg     0.7336    0.7278    0.7194     45430
+
+Accuracy: 0.7278
+Balanced Accuracy: 0.5910
+Cohen's Kappa: 0.6901
+Macro Precision: 0.6655, Recall: 0.5910, F1: 0.6064
+Micro Precision: 0.7278, Recall: 0.7278, F1: 0.7278
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_k20
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: k20
+FILE_PATH: MELT\phi4\zero-naf\tagging_k20_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 124/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6380    0.7245    0.6785      3187
+         ADP     0.8627    0.8819    0.8722      5208
+         ADV     0.5161    0.5109    0.5135      2106
+         AUX     0.4505    0.3553    0.3972      1216
+       CCONJ     0.9577    0.6813    0.7962      3323
+         DET     0.6092    0.8599    0.7132      4198
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7503    0.8512    0.7976      8817
+         NUM     0.7383    0.3873    0.5081       284
+        PART     0.6240    0.2849    0.3912       530
+        PRON     0.6052    0.3995    0.4813      4854
+       PROPN     0.7405    0.5671    0.6423      1721
+       PUNCT     0.9757    0.9978    0.9866       924
+       SCONJ     0.4799    0.5847    0.5272      1021
+        VERB     0.7528    0.7513    0.7521      7806
+
+    accuracy                         0.7156     45208
+   macro avg     0.6467    0.5892    0.6038     45208
+weighted avg     0.7197    0.7156    0.7090     45208
+
+Accuracy: 0.7156
+Balanced Accuracy: 0.5892
+Cohen's Kappa: 0.6765
+Macro Precision: 0.6467, Recall: 0.5892, F1: 0.6038
+Micro Precision: 0.7156, Recall: 0.7156, F1: 0.7156
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_k50
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: k50
+FILE_PATH: MELT\phi4\zero-naf\tagging_k50_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 125/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6345    0.7181    0.6737      3182
+         ADP     0.8622    0.8844    0.8732      5201
+         ADV     0.4986    0.5066    0.5026      2116
+         AUX     0.4460    0.3391    0.3853      1218
+       CCONJ     0.9626    0.6839    0.7996      3315
+         DET     0.6118    0.8652    0.7167      4198
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7485    0.8530    0.7973      8794
+         NUM     0.6792    0.3789    0.4865       285
+        PART     0.5687    0.2806    0.3758       531
+        PRON     0.6143    0.3999    0.4844      4844
+       PROPN     0.7396    0.5575    0.6358      1722
+       PUNCT     0.9799    0.9968    0.9883       931
+       SCONJ     0.4926    0.5898    0.5368      1019
+        VERB     0.7536    0.7496    0.7516      7794
+
+    accuracy                         0.7151     45164
+   macro avg     0.6395    0.5869    0.6005     45164
+weighted avg     0.7191    0.7151    0.7084     45164
+
+Accuracy: 0.7151
+Balanced Accuracy: 0.5869
+Cohen's Kappa: 0.6760
+Macro Precision: 0.6395, Recall: 0.5869, F1: 0.6005
+Micro Precision: 0.7151, Recall: 0.7151, F1: 0.7151
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_k5
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: k5
+FILE_PATH: MELT\phi4\zero-naf\tagging_k5_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 126/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6381    0.7171    0.6753      3196
+         ADP     0.8580    0.8859    0.8717      5217
+         ADV     0.5097    0.5075    0.5086      2120
+         AUX     0.4511    0.3399    0.3877      1221
+       CCONJ     0.9610    0.6822    0.7980      3326
+         DET     0.6123    0.8658    0.7173      4209
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7498    0.8533    0.7982      8836
+         NUM     0.7303    0.3868    0.5057       287
+        PART     0.5882    0.2632    0.3636       532
+        PRON     0.6083    0.3959    0.4797      4867
+       PROPN     0.7479    0.5683    0.6458      1728
+       PUNCT     0.9800    0.9979    0.9888       933
+       SCONJ     0.4892    0.5951    0.5370      1025
+        VERB     0.7498    0.7528    0.7513      7815
+
+    accuracy                         0.7157     45326
+   macro avg     0.6449    0.5874    0.6019     45326
+weighted avg     0.7192    0.7157    0.7086     45326
+
+Accuracy: 0.7157
+Balanced Accuracy: 0.5874
+Cohen's Kappa: 0.6767
+Macro Precision: 0.6449, Recall: 0.5874, F1: 0.6019
+Micro Precision: 0.7157, Recall: 0.7157, F1: 0.7157
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_p75
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: p75
+FILE_PATH: MELT\phi4\zero-naf\tagging_p75_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 127/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6584    0.7397    0.6967      3200
+         ADP     0.8641    0.8910    0.8773      5230
+         ADV     0.5102    0.5280    0.5190      2125
+         AUX     0.4760    0.3322    0.3913      1222
+       CCONJ     0.9612    0.6832    0.7987      3333
+         DET     0.6143    0.8719    0.7208      4217
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7543    0.8640    0.8054      8851
+         NUM     0.8085    0.3918    0.5278       291
+        PART     0.6000    0.1854    0.2833       534
+        PRON     0.6283    0.4058    0.4931      4877
+       PROPN     0.8046    0.5688    0.6664      1737
+       PUNCT     0.9811    0.9979    0.9894       935
+       SCONJ     0.4965    0.6164    0.5500      1027
+        VERB     0.7520    0.7630    0.7575      7836
+
+    accuracy                         0.7238     45429
+   macro avg     0.6606    0.5893    0.6051     45429
+weighted avg     0.7286    0.7238    0.7159     45429
+
+Accuracy: 0.7238
+Balanced Accuracy: 0.5893
+Cohen's Kappa: 0.6856
+Macro Precision: 0.6606, Recall: 0.5893, F1: 0.6051
+Micro Precision: 0.7238, Recall: 0.7238, F1: 0.7238
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_p85
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: p85
+FILE_PATH: MELT\phi4\zero-naf\tagging_p85_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 128/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6507    0.7406    0.6928      3200
+         ADP     0.8613    0.8880    0.8744      5230
+         ADV     0.5096    0.5247    0.5170      2125
+         AUX     0.4798    0.3494    0.4044      1222
+       CCONJ     0.9621    0.6866    0.8013      3331
+         DET     0.6154    0.8682    0.7202      4217
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7532    0.8585    0.8024      8851
+         NUM     0.7755    0.3945    0.5229       289
+        PART     0.6127    0.2341    0.3388       534
+        PRON     0.6291    0.4049    0.4927      4875
+       PROPN     0.7729    0.5652    0.6529      1734
+       PUNCT     0.9779    0.9957    0.9868       935
+       SCONJ     0.4968    0.6062    0.5461      1026
+        VERB     0.7550    0.7603    0.7577      7832
+
+    accuracy                         0.7223     45415
+   macro avg     0.6568    0.5918    0.6074     45415
+weighted avg     0.7270    0.7223    0.7151     45415
+
+Accuracy: 0.7223
+Balanced Accuracy: 0.5918
+Cohen's Kappa: 0.6841
+Macro Precision: 0.6568, Recall: 0.5918, F1: 0.6074
+Micro Precision: 0.7223, Recall: 0.7223, F1: 0.7223
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_p95
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: p95
+FILE_PATH: MELT\phi4\zero-naf\tagging_p95_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 129/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6421    0.7244    0.6808      3193
+         ADP     0.8652    0.8849    0.8750      5223
+         ADV     0.5049    0.5083    0.5066      2121
+         AUX     0.4555    0.3311    0.3835      1220
+       CCONJ     0.9602    0.6833    0.7985      3322
+         DET     0.6131    0.8672    0.7183      4208
+        INTJ     0.0000    0.0000    0.0000        13
+        NOUN     0.7500    0.8579    0.8003      8838
+         NUM     0.7278    0.3993    0.5157       288
+        PART     0.5480    0.2566    0.3495       534
+        PRON     0.6182    0.4014    0.4868      4865
+       PROPN     0.7623    0.5639    0.6483      1729
+       PUNCT     0.9738    0.9968    0.9852       932
+       SCONJ     0.4904    0.5977    0.5387      1024
+        VERB     0.7485    0.7514    0.7500      7816
+
+    accuracy                         0.7173     45326
+   macro avg     0.6440    0.5883    0.6025     45326
+weighted avg     0.7210    0.7173    0.7102     45326
+
+Accuracy: 0.7173
+Balanced Accuracy: 0.5883
+Cohen's Kappa: 0.6784
+Macro Precision: 0.6440, Recall: 0.5883, F1: 0.6025
+Micro Precision: 0.7173, Recall: 0.7173, F1: 0.7173
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_t6
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: t6
+FILE_PATH: MELT\phi4\zero-naf\tagging_t6_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 130/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6545    0.7359    0.6929      3200
+         ADP     0.8659    0.8904    0.8779      5227
+         ADV     0.5104    0.5327    0.5213      2123
+         AUX     0.4874    0.3325    0.3953      1221
+       CCONJ     0.9639    0.6894    0.8038      3332
+         DET     0.6140    0.8691    0.7196      4217
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7548    0.8638    0.8057      8850
+         NUM     0.7733    0.4000    0.5273       290
+        PART     0.5621    0.1779    0.2703       534
+        PRON     0.6269    0.4058    0.4927      4874
+       PROPN     0.8028    0.5611    0.6606      1734
+       PUNCT     0.9708    0.9968    0.9836       933
+       SCONJ     0.4905    0.6018    0.5404      1027
+        VERB     0.7502    0.7630    0.7565      7834
+
+    accuracy                         0.7232     45410
+   macro avg     0.6552    0.5880    0.6032     45410
+weighted avg     0.7276    0.7232    0.7153     45410
+
+Accuracy: 0.7232
+Balanced Accuracy: 0.5880
+Cohen's Kappa: 0.6849
+Macro Precision: 0.6552, Recall: 0.5880, F1: 0.6032
+Micro Precision: 0.7232, Recall: 0.7232, F1: 0.7232
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_t8
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: t8
+FILE_PATH: MELT\phi4\zero-naf\tagging_t8_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 131/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6483    0.7335    0.6883      3197
+         ADP     0.8605    0.8878    0.8739      5224
+         ADV     0.5104    0.5111    0.5107      2119
+         AUX     0.4666    0.3434    0.3957      1220
+       CCONJ     0.9596    0.6845    0.7990      3328
+         DET     0.6132    0.8713    0.7198      4211
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7499    0.8562    0.7995      8839
+         NUM     0.8056    0.4014    0.5358       289
+        PART     0.5877    0.2322    0.3329       534
+        PRON     0.6215    0.3986    0.4857      4864
+       PROPN     0.7722    0.5621    0.6506      1731
+       PUNCT     0.9718    0.9968    0.9842       935
+       SCONJ     0.4921    0.6074    0.5437      1024
+        VERB     0.7533    0.7588    0.7560      7823
+
+    accuracy                         0.7197     45352
+   macro avg     0.6542    0.5897    0.6051     45352
+weighted avg     0.7240    0.7197    0.7122     45352
+
+Accuracy: 0.7197
+Balanced Accuracy: 0.5897
+Cohen's Kappa: 0.6812
+Macro Precision: 0.6542, Recall: 0.5897, F1: 0.6051
+Micro Precision: 0.7197, Recall: 0.7197, F1: 0.7197
+---CONTENT_END---
+===REPORT_END===
+
+===REPORT_START===
+CONFIG: phi4_zero_naf_t9
+MODEL: phi4
+PROMPTING: zero
+DATASET: naf
+DECODING: t9
+FILE_PATH: MELT\phi4\zero-naf\tagging_t9_naf_zero_phi4_5\classification_report.txt
+REPORT_NUMBER: 132/132
+---CONTENT_START---
+precision    recall  f1-score   support
+
+         ADJ     0.6429    0.7267    0.6822      3183
+         ADP     0.8630    0.8841    0.8734      5203
+         ADV     0.5021    0.5106    0.5063      2113
+         AUX     0.4455    0.3355    0.3828      1219
+       CCONJ     0.9619    0.6857    0.8006      3315
+         DET     0.6105    0.8686    0.7171      4200
+        INTJ     0.0000    0.0000    0.0000        14
+        NOUN     0.7500    0.8568    0.7998      8819
+         NUM     0.7500    0.3881    0.5115       286
+        PART     0.6303    0.2491    0.3570       534
+        PRON     0.6154    0.3969    0.4826      4865
+       PROPN     0.7605    0.5683    0.6505      1721
+       PUNCT     0.9707    0.9957    0.9831       932
+       SCONJ     0.4892    0.5975    0.5380      1026
+        VERB     0.7519    0.7511    0.7515      7814
+
+    accuracy                         0.7170     45244
+   macro avg     0.6496    0.5876    0.6024     45244
+weighted avg     0.7215    0.7170    0.7098     45244
+
+Accuracy: 0.7170
+Balanced Accuracy: 0.5876
+Cohen's Kappa: 0.6781
+Macro Precision: 0.6496, Recall: 0.5876, F1: 0.6024
+Micro Precision: 0.7170, Recall: 0.7170, F1: 0.7170
+---CONTENT_END---
+===REPORT_END===
+
