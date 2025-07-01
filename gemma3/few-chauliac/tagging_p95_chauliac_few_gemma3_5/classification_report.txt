@@ -1,0 +1,24 @@
+              precision    recall  f1-score   support
+
+         ADJ     0.4770    0.7281    0.5764       114
+         ADP     0.9615    0.8039    0.8757       311
+         ADV     0.6159    0.8586    0.7173        99
+         AUX     0.3519    0.4634    0.4000        41
+       CCONJ     0.9756    0.9249    0.9496       173
+         DET     0.7554    0.9130    0.8268       230
+        NOUN     0.9273    0.8447    0.8841       438
+         NUM     0.6429    0.9000    0.7500        20
+        PRON     0.8378    0.7014    0.7635       221
+       PROPN     0.8571    0.3000    0.4444        20
+       PUNCT     1.0000    1.0000    1.0000       379
+        VERB     0.8405    0.7798    0.8090       277
+
+    accuracy                         0.8399      2323
+   macro avg     0.7702    0.7681    0.7497      2323
+weighted avg     0.8629    0.8399    0.8450      2323
+
+Accuracy: 0.8399
+Balanced Accuracy: 0.7681
+Cohen's Kappa: 0.8183
+Macro Precision: 0.7702, Recall: 0.7681, F1: 0.7497
+Micro Precision: 0.8399, Recall: 0.8399, F1: 0.8399
