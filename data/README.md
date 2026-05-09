@@ -34,6 +34,6 @@ The Occitan dataset is based on:
   journal={ArXiv},
   year={2025},
   volume={abs/2506.17715},
-  url={https://api.semanticscholar.org/CorpusID:280000436}
+  url={https://arxiv.org/abs/2506.17715}
 }
 ```
