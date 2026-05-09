@@ -1,6 +1,6 @@
 # medieval-romance-pos
 
-This repository contains the datasets, source code, and related files used in this project. It provides all necessary components to reproduce the experiments and results presented in the paper.
+This repository contains the datasets including the references, source code, and related files used in this project. It provides all necessary components to reproduce the experiments and results presented in the paper.
 
 ## General information
 
