@@ -157,20 +157,6 @@ Trilingual CLTF       ███████████████████�
 - **More languages is not always better.** For the small French dataset, bilingual CAT+FR (93.14%) clearly beats trilingual training (88.23%).
 - **Content words benefit most.** Proper nouns, numerals, pronouns and subordinating conjunctions improve by up to **+66 F1 points** over UDPipe on NAF.
 
-<details>
-<summary><b>🖼️ More figures</b> (click to expand)</summary>
-<br>
-
-| Effect of trilingual CLTF vs. monolingual fine-tuning | Decoding strategies |
-|:--:|:--:|
-| <img src="data_analysis/cltf_impact_enhanced.png" width="100%"> | <img src="data_analysis/decoding_strategies_enhanced.png" width="100%"> |
-| **Overall performance** | **Per-POS-class performance** |
-| <img src="data_analysis/overall_performance_enhanced.png" width="100%"> | <img src="data_analysis/pos_class_performance_enhanced.png" width="100%"> |
-
-High-resolution PDF versions of all figures are in [`data_analysis/`](data_analysis/).
-
-</details>
-
 ---
 
 ## 📂 Repository Structure
@@ -197,8 +183,7 @@ medieval-romance-pos/
 └── data_analysis/            # R/Python analysis scripts, aggregated reports, figures
 ```
 
-<details>
-<summary><b>🏷️ Run naming convention</b> (e.g. <code>tagging_b15_naf_few_gemma3_5</code>)</summary>
+### 🏷️ Run naming convention</b> (e.g. <code>tagging_b15_naf_few_gemma3_5</code>)
 <br>
 
 | Part | Meaning |
@@ -212,8 +197,6 @@ medieval-romance-pos/
 | `gemma3` / `phi4` | Model |
 
 Fine-tuning runs use the suffixes `_f_g3` (Gemma3) and `_f_phi4` (Phi4). CLTF folder names such as `chauliac-cat-naf` list the languages included in training.
-
-</details>
 
 ---
 
@@ -241,35 +224,44 @@ The scripts are the **base code** for every experiment. Each one is written for 
 
 ## 📝 Citation
 
-If you use this code or data, please cite:
+If you refer to this work, please cite:
 
 ```bibtex
 @inproceedings{schoeffel-garces-arias-2026-traditional,
-    title     = {From Traditional Taggers to {LLM}s: A Comparative Study of {POS} Tagging for Medieval {R}omance Languages},
+    itle      = "From Traditional Taggers to {LLM}s: A Comparative Study of {POS} Tagging for Medieval {R}omance Languages",
     author    = {Sch{\"o}ffel, Matthias and Garces Arias, Esteban},
+    editor    = {Hamilton, Sil  and
+      {\"O}hman, Emily  and
+      Hicke, Rebecca M. M.  and
+      Bizzoni, Yuri  and
+      Bax, Axel  and
+      Matthews, Jacob A.  and
+      H{\"a}m{\"a}l{\"a}inen, Mika},
     booktitle = {Proceedings of the 6th International Conference on Natural Language Processing for the Digital Humanities},
     month     = jul,
     year      = {2026},
+    address   = "San Diego, USA",
     publisher = {Association for Computational Linguistics},
-    url       = {https://aclanthology.org/2026.nlp4dh-1.27/},
+    url       = "https://aclanthology.org/2026.nlp4dh-1.27/", 
+    doi       = "10.18653/v1/2026.nlp4dh-1.27",
     pages     = {297--313}
+    ISBN = "979-8-89176-427-9",
 }
 ```
 
-<details>
-<summary><b>Related work by the authors</b></summary>
+### Related work by the authors
 <br>
 
-- Schöffel, Wiedner, Garces Arias, Ruppert, Heumann & Aßenmacher (2025). *Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan.* [arXiv:2503.07827](https://arxiv.org/abs/2503.07827)
-- Schöffel, Garces Arias, Wiedner, Ruppert, Li, Heumann & Aßenmacher (2025). *Unveiling Factors for Enhanced POS Tagging: A Study of Low-Resource Medieval Romance Languages.*
+- Schöffel, Matthias, Wiedner, Marinus, Garces Arias, Esteban, Ruppert, Paula, Heumann, Christian & Aßenmacher, Matthias (2025). *Modern Models, Medieval Texts: A POS Tagging Study of Old Occitan.* [arXiv:2503.07827](https://arxiv.org/abs/2503.07827)
+- Schöffel, Matthias, Garces Arias, Esteban, Wiedner, Marinus, Ruppert, Paula, Li, Meimingwei, Heumann, Christian & Aßenmacher, Matthias (2025). *Unveiling Factors for Enhanced POS Tagging: A Study of Low-Resource Medieval Romance Languages.* [arXiv:2506.17715](https://arxiv.org/abs/2506.17715)
 
-</details>
+
 
 ---
 
 ## 🙏 Acknowledgments
 
-We thank the **ALMA** project (*Wissensnetze in der mittelalterlichen Romania*) for access to the Chauliac data, **Marinus Wiedner** for annotating and publishing the Medieval Occitan corpora, and the **Leibniz-Rechenzentrum (LRZ)** for computational resources. Esteban Garces Arias thanks the Mentoring Program of the Faculty of Mathematics, Statistics, and Informatics at LMU Munich and the **Munich Center for Machine Learning (MCML)** for their support.
+We thank the ALMA project (*Wissensnetze in der mittelalterlichen Romania*) for access to the Chauliac data, Marinus Wiedner for annotating and publishing the Medieval Occitan corpora, and the Leibniz-Rechenzentrum (LRZ) for computational resources. Esteban Garces Arias thanks the Mentoring Program of the Faculty of Mathematics, Statistics, and Informatics at LMU Munich and the Munich Center for Machine Learning (MCML) for their support.
 
 <div align="center">
 
